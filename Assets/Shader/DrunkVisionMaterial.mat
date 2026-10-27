@@ -41,14 +41,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlurStrength: 3.5246905e-21
-    - _ClearRadius: 1.4999998
+    - _BlurStrength: 0.025950188
+    - _ClearRadius: 1.495329
     - _EnableExternalAlpha: 0
     - _Feather: 0.25
     - _ZWrite: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _PlayerScreenPos: {r: 0.5281277, g: 0.46664047, b: 0, a: 0}
+    - _PlayerScreenPos: {r: 0.53022957, g: 0.46666336, b: 0, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
