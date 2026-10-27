@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 98c2461dc306344db8528f5f3b824577
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1159266047447948708
+    second: Spritesheet_Animation_UI_Pumpkin_Select_0
+  - first:
+      213: -5770116853517251982
+    second: Spritesheet_Animation_UI_Pumpkin_Select_1
+  - first:
+      213: 1916930767841324078
+    second: Spritesheet_Animation_UI_Pumpkin_Select_2
+  - first:
+      213: -8856071106623145647
+    second: Spritesheet_Animation_UI_Pumpkin_Select_3
+  - first:
+      213: 475636890995307945
+    second: Spritesheet_Animation_UI_Pumpkin_Select_4
+  - first:
+      213: -742162779484227820
+    second: Spritesheet_Animation_UI_Pumpkin_Select_5
+  - first:
+      213: 197086939759027780
+    second: Spritesheet_Animation_UI_Pumpkin_Select_6
+  - first:
+      213: 5435845007141121613
+    second: Spritesheet_Animation_UI_Pumpkin_Select_7
+  - first:
+      213: -7358462590750117269
+    second: Spritesheet_Animation_UI_Pumpkin_Select_8
+  - first:
+      213: -3828232798613742350
+    second: Spritesheet_Animation_UI_Pumpkin_Select_9
+  - first:
+      213: 329222581523146187
+    second: Spritesheet_Animation_UI_Pumpkin_Select_10
+  - first:
+      213: -5774449514004152959
+    second: Spritesheet_Animation_UI_Pumpkin_Select_11
+  - first:
+      213: 9107612374513915080
+    second: Spritesheet_Animation_UI_Pumpkin_Select_12
+  - first:
+      213: -2629924098792096209
+    second: Spritesheet_Animation_UI_Pumpkin_Select_13
+  - first:
+      213: -1253535746227555017
+    second: Spritesheet_Animation_UI_Pumpkin_Select_14
+  - first:
+      213: 1951132141541057904
+    second: Spritesheet_Animation_UI_Pumpkin_Select_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad5e4ef35a861010800000000000000
+      internalID: 1159266047447948708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a0c990b4d6cefa0800000000000000
+      internalID: -5770116853517251982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce234806e4a9a10800000000000000
+      internalID: 1916930767841324078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1597020004ae81580800000000000000
+      internalID: -8856071106623145647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5b8d97b3dc99600800000000000000
+      internalID: 475636890995307945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417735b52ee43b5f0800000000000000
+      internalID: -742162779484227820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a43a07813cb200800000000000000
+      internalID: 197086939759027780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2ab0db30007b40800000000000000
+      internalID: 5435845007141121613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62b651b24d71e990800000000000000
+      internalID: -7358462590750117269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd0217d826fdac0800000000000000
+      internalID: -3828232798613742350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc569bf8132a19400800000000000000
+      internalID: 329222581523146187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dfa58e2c80ddfa0800000000000000
+      internalID: -5774449514004152959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c49ade433db46e70800000000000000
+      internalID: 9107612374513915080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef14157f1a08bd0800000000000000
+      internalID: -2629924098792096209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7353adc51eb8a9ee0800000000000000
+      internalID: -1253535746227555017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Select_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e66e5850d31b10800000000000000
+      internalID: 1951132141541057904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Pumpkin_Select_0: 1159266047447948708
+      Spritesheet_Animation_UI_Pumpkin_Select_1: -5770116853517251982
+      Spritesheet_Animation_UI_Pumpkin_Select_10: 329222581523146187
+      Spritesheet_Animation_UI_Pumpkin_Select_11: -5774449514004152959
+      Spritesheet_Animation_UI_Pumpkin_Select_12: 9107612374513915080
+      Spritesheet_Animation_UI_Pumpkin_Select_13: -2629924098792096209
+      Spritesheet_Animation_UI_Pumpkin_Select_14: -1253535746227555017
+      Spritesheet_Animation_UI_Pumpkin_Select_15: 1951132141541057904
+      Spritesheet_Animation_UI_Pumpkin_Select_2: 1916930767841324078
+      Spritesheet_Animation_UI_Pumpkin_Select_3: -8856071106623145647
+      Spritesheet_Animation_UI_Pumpkin_Select_4: 475636890995307945
+      Spritesheet_Animation_UI_Pumpkin_Select_5: -742162779484227820
+      Spritesheet_Animation_UI_Pumpkin_Select_6: 197086939759027780
+      Spritesheet_Animation_UI_Pumpkin_Select_7: 5435845007141121613
+      Spritesheet_Animation_UI_Pumpkin_Select_8: -7358462590750117269
+      Spritesheet_Animation_UI_Pumpkin_Select_9: -3828232798613742350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

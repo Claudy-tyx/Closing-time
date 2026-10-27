@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 18768a5d773dc4c9aa7de1eae86ce05b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5212814253325548429
+    second: UI_Metalworks_0
+  - first:
+      213: -7308793403133428706
+    second: UI_Metalworks_1
+  - first:
+      213: -4531462668522087183
+    second: UI_Metalworks_2
+  - first:
+      213: 368421613329236986
+    second: UI_Metalworks_3
+  - first:
+      213: 1532378334940583216
+    second: UI_Metalworks_4
+  - first:
+      213: -134232332963524042
+    second: UI_Metalworks_5
+  - first:
+      213: 4244879539405004399
+    second: UI_Metalworks_6
+  - first:
+      213: -5605448803384498174
+    second: UI_Metalworks_7
+  - first:
+      213: 6978829215008102100
+    second: UI_Metalworks_8
+  - first:
+      213: 9001070196858800724
+    second: UI_Metalworks_9
+  - first:
+      213: -888075498450087089
+    second: UI_Metalworks_10
+  - first:
+      213: -1881965717925816137
+    second: UI_Metalworks_11
+  - first:
+      213: 7074539361709354559
+    second: UI_Metalworks_12
+  - first:
+      213: -4699250635564178933
+    second: UI_Metalworks_13
+  - first:
+      213: 300954944564517965
+    second: UI_Metalworks_14
+  - first:
+      213: 3498018553941494643
+    second: UI_Metalworks_15
+  - first:
+      213: -3104841208273047700
+    second: UI_Metalworks_16
+  - first:
+      213: -3447402144374684602
+    second: UI_Metalworks_17
+  - first:
+      213: -1846201416128436222
+    second: UI_Metalworks_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Metalworks_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 386
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37400762e0d58a7b0800000000000000
+      internalID: -5212814253325548429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 194
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c738d9f13f19a90800000000000000
+      internalID: -7308793403133428706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc1cc136b20d11c0800000000000000
+      internalID: -4531462668522087183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3c01e5185ec1500800000000000000
+      internalID: 368421613329236986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03553ab0af9144510800000000000000
+      internalID: 1532378334940583216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325654876c132ef0800000000000000
+      internalID: -134232332963524042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1f846377d8ea30800000000000000
+      internalID: 4244879539405004399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208e0a323027532b0800000000000000
+      internalID: -5605448803384498174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 43
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d61da41238c9d060800000000000000
+      internalID: 6978829215008102100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45acf1287a93aec70800000000000000
+      internalID: 9001070196858800724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4397251a0ceca3f0800000000000000
+      internalID: -888075498450087089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 41
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8919f862ae1e5e0800000000000000
+      internalID: -1881965717925816137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e64342110dd2260800000000000000
+      internalID: 7074539361709354559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 39
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022ba4d178e8ceb0800000000000000
+      internalID: -4699250635564178933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 39
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5a247de43d2400800000000000000
+      internalID: 300954944564517965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 39
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b886d67557b8030800000000000000
+      internalID: 3498018553941494643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe3e80f5369e4d0800000000000000
+      internalID: -3104841208273047700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 39
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64480aac30e5820d0800000000000000
+      internalID: -3447402144374684602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metalworks_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20867d7f799f066e0800000000000000
+      internalID: -1846201416128436222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Metalworks_0: -5212814253325548429
+      UI_Metalworks_1: -7308793403133428706
+      UI_Metalworks_10: -888075498450087089
+      UI_Metalworks_11: -1881965717925816137
+      UI_Metalworks_12: 7074539361709354559
+      UI_Metalworks_13: -4699250635564178933
+      UI_Metalworks_14: 300954944564517965
+      UI_Metalworks_15: 3498018553941494643
+      UI_Metalworks_16: -3104841208273047700
+      UI_Metalworks_17: -3447402144374684602
+      UI_Metalworks_18: -1846201416128436222
+      UI_Metalworks_2: -4531462668522087183
+      UI_Metalworks_3: 368421613329236986
+      UI_Metalworks_4: 1532378334940583216
+      UI_Metalworks_5: -134232332963524042
+      UI_Metalworks_6: 4244879539405004399
+      UI_Metalworks_7: -5605448803384498174
+      UI_Metalworks_8: 6978829215008102100
+      UI_Metalworks_9: 9001070196858800724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

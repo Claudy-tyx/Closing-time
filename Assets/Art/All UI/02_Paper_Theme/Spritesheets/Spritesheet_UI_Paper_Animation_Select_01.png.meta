@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 308cee7b4f6814c77abcac5407c77680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 279413542209392771
+    second: Spritesheet_UI_Paper_Animation_Select_01_0
+  - first:
+      213: 8659959275603476020
+    second: Spritesheet_UI_Paper_Animation_Select_01_1
+  - first:
+      213: -117844211220660119
+    second: Spritesheet_UI_Paper_Animation_Select_01_2
+  - first:
+      213: 1216656621071220240
+    second: Spritesheet_UI_Paper_Animation_Select_01_3
+  - first:
+      213: 1517330856069750677
+    second: Spritesheet_UI_Paper_Animation_Select_01_4
+  - first:
+      213: -8993043171913848027
+    second: Spritesheet_UI_Paper_Animation_Select_01_5
+  - first:
+      213: -4966853290126695668
+    second: Spritesheet_UI_Paper_Animation_Select_01_6
+  - first:
+      213: 1580121018601808373
+    second: Spritesheet_UI_Paper_Animation_Select_01_7
+  - first:
+      213: -2456737144436802673
+    second: Spritesheet_UI_Paper_Animation_Select_01_8
+  - first:
+      213: -7303987575396244396
+    second: Spritesheet_UI_Paper_Animation_Select_01_9
+  - first:
+      213: -4324823720594662232
+    second: Spritesheet_UI_Paper_Animation_Select_01_10
+  - first:
+      213: 3493446639356319386
+    second: Spritesheet_UI_Paper_Animation_Select_01_11
+  - first:
+      213: 1998923042184436238
+    second: Spritesheet_UI_Paper_Animation_Select_01_12
+  - first:
+      213: -3609192640615566033
+    second: Spritesheet_UI_Paper_Animation_Select_01_13
+  - first:
+      213: -8640871207430142901
+    second: Spritesheet_UI_Paper_Animation_Select_01_14
+  - first:
+      213: 6867647162004299152
+    second: Spritesheet_UI_Paper_Animation_Select_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38013d0e22da0e300800000000000000
+      internalID: 279413542209392771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb1b7241b5e2870800000000000000
+      internalID: 8659959275603476020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604b5370555d5ef0800000000000000
+      internalID: -117844211220660119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb39030ce62e010800000000000000
+      internalID: 1216656621071220240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd6cadf54ae0510800000000000000
+      internalID: 1517330856069750677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ba250e1ea423380800000000000000
+      internalID: -8993043171913848027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03a4868f31321bb0800000000000000
+      internalID: -4966853290126695668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a3efc1b7bde510800000000000000
+      internalID: 1580121018601808373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b365f559ae7edd0800000000000000
+      internalID: -2456737144436802673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e3a49ff503aa90800000000000000
+      internalID: -7303987575396244396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac95c17db32bf3c0800000000000000
+      internalID: -4324823720594662232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a969d9c95373b7030800000000000000
+      internalID: 3493446639356319386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1fb68ae99dbb10800000000000000
+      internalID: 1998923042184436238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25b72a6a6299edc0800000000000000
+      internalID: -3609192640615566033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44c93b0b65751880800000000000000
+      internalID: -8640871207430142901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Select_01_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5cfd15b8ce4f50800000000000000
+      internalID: 6867647162004299152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_UI_Paper_Animation_Select_01_0: 279413542209392771
+      Spritesheet_UI_Paper_Animation_Select_01_1: 8659959275603476020
+      Spritesheet_UI_Paper_Animation_Select_01_10: -4324823720594662232
+      Spritesheet_UI_Paper_Animation_Select_01_11: 3493446639356319386
+      Spritesheet_UI_Paper_Animation_Select_01_12: 1998923042184436238
+      Spritesheet_UI_Paper_Animation_Select_01_13: -3609192640615566033
+      Spritesheet_UI_Paper_Animation_Select_01_14: -8640871207430142901
+      Spritesheet_UI_Paper_Animation_Select_01_15: 6867647162004299152
+      Spritesheet_UI_Paper_Animation_Select_01_2: -117844211220660119
+      Spritesheet_UI_Paper_Animation_Select_01_3: 1216656621071220240
+      Spritesheet_UI_Paper_Animation_Select_01_4: 1517330856069750677
+      Spritesheet_UI_Paper_Animation_Select_01_5: -8993043171913848027
+      Spritesheet_UI_Paper_Animation_Select_01_6: -4966853290126695668
+      Spritesheet_UI_Paper_Animation_Select_01_7: 1580121018601808373
+      Spritesheet_UI_Paper_Animation_Select_01_8: -2456737144436802673
+      Spritesheet_UI_Paper_Animation_Select_01_9: -7303987575396244396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

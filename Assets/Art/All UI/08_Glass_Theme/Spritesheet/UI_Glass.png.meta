@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 2d80b6bb3653448dea86c014f691a800
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7122250758101311239
+    second: UI_Glass_0
+  - first:
+      213: -1071442543127053407
+    second: UI_Glass_1
+  - first:
+      213: 2768984186159022579
+    second: UI_Glass_2
+  - first:
+      213: 6564772809558097884
+    second: UI_Glass_3
+  - first:
+      213: 1253670957144033839
+    second: UI_Glass_4
+  - first:
+      213: 7220349596316217759
+    second: UI_Glass_5
+  - first:
+      213: 7314932940403683315
+    second: UI_Glass_6
+  - first:
+      213: 886353376994305699
+    second: UI_Glass_7
+  - first:
+      213: 6386526928269910958
+    second: UI_Glass_8
+  - first:
+      213: 6502970870901167180
+    second: UI_Glass_9
+  - first:
+      213: 734825840121712988
+    second: UI_Glass_10
+  - first:
+      213: -906585896917389071
+    second: UI_Glass_11
+  - first:
+      213: 7164365387176550790
+    second: UI_Glass_12
+  - first:
+      213: -4055151198203505019
+    second: UI_Glass_13
+  - first:
+      213: 2498033992320677941
+    second: UI_Glass_14
+  - first:
+      213: -8927131289797380810
+    second: UI_Glass_15
+  - first:
+      213: -1391925308844478721
+    second: UI_Glass_16
+  - first:
+      213: 630938265811908014
+    second: UI_Glass_17
+  - first:
+      213: 6978763791246222358
+    second: UI_Glass_18
+  - first:
+      213: -2086481124779083144
+    second: UI_Glass_19
+  - first:
+      213: 5616612872888224655
+    second: UI_Glass_20
+  - first:
+      213: -3569125621451338491
+    second: UI_Glass_21
+  - first:
+      213: 7728999637685464282
+    second: UI_Glass_22
+  - first:
+      213: 7512018713237433378
+    second: UI_Glass_23
+  - first:
+      213: 856997665950389439
+    second: UI_Glass_24
+  - first:
+      213: 2669137202203939421
+    second: UI_Glass_25
+  - first:
+      213: 1227662235295869298
+    second: UI_Glass_26
+  - first:
+      213: 5069559098773939174
+    second: UI_Glass_27
+  - first:
+      213: -3664853537361074512
+    second: UI_Glass_28
+  - first:
+      213: -348075121243398490
+    second: UI_Glass_29
+  - first:
+      213: -695034890530697860
+    second: UI_Glass_30
+  - first:
+      213: -7076824494408315462
+    second: UI_Glass_31
+  - first:
+      213: 4329901524890527213
+    second: UI_Glass_32
+  - first:
+      213: -532568270335590399
+    second: UI_Glass_33
+  - first:
+      213: 7203949669692878894
+    second: UI_Glass_34
+  - first:
+      213: 4877192402399102017
+    second: UI_Glass_35
+  - first:
+      213: -7974954927591914245
+    second: UI_Glass_36
+  - first:
+      213: -4516994133484989497
+    second: UI_Glass_37
+  - first:
+      213: 7209682744393295311
+    second: UI_Glass_38
+  - first:
+      213: 7505544330945760839
+    second: UI_Glass_39
+  - first:
+      213: 4589084515943405461
+    second: UI_Glass_40
+  - first:
+      213: 938529575558217288
+    second: UI_Glass_41
+  - first:
+      213: -8882335066056919521
+    second: UI_Glass_42
+  - first:
+      213: 3710728339907872051
+    second: UI_Glass_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Glass_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f06d1abbaea82d90800000000000000
+      internalID: -7122250758101311239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abbbab0fa87121f0800000000000000
+      internalID: -1071442543127053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1cea452786d6620800000000000000
+      internalID: 2768984186159022579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 290
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7ad0b612ca1b50800000000000000
+      internalID: 6564772809558097884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a4bc1e71fe56110800000000000000
+      internalID: 1253670957144033839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91309ae3b5d33460800000000000000
+      internalID: 7220349596316217759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa09cc0ccd38560800000000000000
+      internalID: 7314932940403683315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 233
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a63543b5fc4c00800000000000000
+      internalID: 886353376994305699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 236
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3aefb676081a850800000000000000
+      internalID: 6386526928269910958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 229
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d6c88d813f3a50800000000000000
+      internalID: 6502970870901167180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 236
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c519b345530a23a00800000000000000
+      internalID: 734825840121712988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f03cd71ee82b63f0800000000000000
+      internalID: -906585896917389071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68123c77c50fc6360800000000000000
+      internalID: 7164365387176550790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5869498687539b7c0800000000000000
+      internalID: -4055151198203505019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ff1d4eaccaa220800000000000000
+      internalID: 2498033992320677941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6353a50d3657c1480800000000000000
+      internalID: -8927131289797380810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 166
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee27c6e43eeace0800000000000000
+      internalID: -1391925308844478721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 167
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea57be8820b81c800800000000000000
+      internalID: 630938265811908014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 169
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e69c61bc89d060800000000000000
+      internalID: 6978763791246222358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 172
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3cfeb8745b03e0800000000000000
+      internalID: -2086481124779083144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 172
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b836956a732fd40800000000000000
+      internalID: 5616612872888224655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dc5a6482be77ec0800000000000000
+      internalID: -3569125621451338491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc6d51783ce24b60800000000000000
+      internalID: 7728999637685464282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22caa94283d004860800000000000000
+      internalID: 7512018713237433378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4df4c26daa4eb00800000000000000
+      internalID: 856997665950389439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 137
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52552ac42eaa0520800000000000000
+      internalID: 2669137202203939421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 137
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e8fe6c48890110800000000000000
+      internalID: 1227662235295869298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 139
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e325420421ba5640800000000000000
+      internalID: 5069559098773939174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b662cfff13d32dc0800000000000000
+      internalID: -3664853537361074512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 103
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aed22b75836b2bf0800000000000000
+      internalID: -348075121243398490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 105
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4a63137dba56f0800000000000000
+      internalID: -695034890530697860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 105
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd4201fd911acd90800000000000000
+      internalID: -7076824494408315462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a58ffe76e61c30800000000000000
+      internalID: 4329901524890527213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c004daffeb98f0800000000000000
+      internalID: -532568270335590399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2036d17e0299f360800000000000000
+      internalID: 7203949669692878894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 98
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448b3646a44fa340800000000000000
+      internalID: 4877192402399102017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf402291fb4435190800000000000000
+      internalID: -7974954927591914245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39a1584c96051c0800000000000000
+      internalID: -4516994133484989497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc563dae140fd0460800000000000000
+      internalID: 7209682744393295311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 66
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e08fb8dcc092860800000000000000
+      internalID: 7505544330945760839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 43
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5975d01ad04bfaf30800000000000000
+      internalID: 4589084515943405461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e785a2da3560d00800000000000000
+      internalID: 938529575558217288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 43
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f167eab615b9bb480800000000000000
+      internalID: -8882335066056919521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Glass_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 34
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3350f2ec3c72f7330800000000000000
+      internalID: 3710728339907872051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Glass_0: -7122250758101311239
+      UI_Glass_1: -1071442543127053407
+      UI_Glass_10: 734825840121712988
+      UI_Glass_11: -906585896917389071
+      UI_Glass_12: 7164365387176550790
+      UI_Glass_13: -4055151198203505019
+      UI_Glass_14: 2498033992320677941
+      UI_Glass_15: -8927131289797380810
+      UI_Glass_16: -1391925308844478721
+      UI_Glass_17: 630938265811908014
+      UI_Glass_18: 6978763791246222358
+      UI_Glass_19: -2086481124779083144
+      UI_Glass_2: 2768984186159022579
+      UI_Glass_20: 5616612872888224655
+      UI_Glass_21: -3569125621451338491
+      UI_Glass_22: 7728999637685464282
+      UI_Glass_23: 7512018713237433378
+      UI_Glass_24: 856997665950389439
+      UI_Glass_25: 2669137202203939421
+      UI_Glass_26: 1227662235295869298
+      UI_Glass_27: 5069559098773939174
+      UI_Glass_28: -3664853537361074512
+      UI_Glass_29: -348075121243398490
+      UI_Glass_3: 6564772809558097884
+      UI_Glass_30: -695034890530697860
+      UI_Glass_31: -7076824494408315462
+      UI_Glass_32: 4329901524890527213
+      UI_Glass_33: -532568270335590399
+      UI_Glass_34: 7203949669692878894
+      UI_Glass_35: 4877192402399102017
+      UI_Glass_36: -7974954927591914245
+      UI_Glass_37: -4516994133484989497
+      UI_Glass_38: 7209682744393295311
+      UI_Glass_39: 7505544330945760839
+      UI_Glass_4: 1253670957144033839
+      UI_Glass_40: 4589084515943405461
+      UI_Glass_41: 938529575558217288
+      UI_Glass_42: -8882335066056919521
+      UI_Glass_43: 3710728339907872051
+      UI_Glass_5: 7220349596316217759
+      UI_Glass_6: 7314932940403683315
+      UI_Glass_7: 886353376994305699
+      UI_Glass_8: 6386526928269910958
+      UI_Glass_9: 6502970870901167180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

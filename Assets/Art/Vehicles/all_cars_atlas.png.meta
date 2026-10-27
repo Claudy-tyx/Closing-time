@@ -1,0 +1,2836 @@
+fileFormatVersion: 2
+guid: 756e2f9a17ee04829b59977d8d8d6c9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2993648413144360806
+    second: all_cars_atlas_0
+  - first:
+      213: 5461379840680539959
+    second: all_cars_atlas_1
+  - first:
+      213: -7161368529445115093
+    second: all_cars_atlas_2
+  - first:
+      213: 4782549619348988821
+    second: all_cars_atlas_3
+  - first:
+      213: 5664816070816270026
+    second: all_cars_atlas_4
+  - first:
+      213: 5245189485168605685
+    second: all_cars_atlas_5
+  - first:
+      213: 8850183498259429030
+    second: all_cars_atlas_6
+  - first:
+      213: -390306286922352176
+    second: all_cars_atlas_7
+  - first:
+      213: 8514856900545444087
+    second: all_cars_atlas_8
+  - first:
+      213: -784833031804952019
+    second: all_cars_atlas_9
+  - first:
+      213: 2366722680383200044
+    second: all_cars_atlas_10
+  - first:
+      213: -5331632317829555252
+    second: all_cars_atlas_11
+  - first:
+      213: 4625422492198272640
+    second: all_cars_atlas_12
+  - first:
+      213: -89054884630664952
+    second: all_cars_atlas_13
+  - first:
+      213: 6288689651842581327
+    second: all_cars_atlas_14
+  - first:
+      213: 3794019372723787944
+    second: all_cars_atlas_15
+  - first:
+      213: 3169222671805063530
+    second: all_cars_atlas_16
+  - first:
+      213: -2414590555777767852
+    second: all_cars_atlas_17
+  - first:
+      213: 8791714956113569362
+    second: all_cars_atlas_18
+  - first:
+      213: 4837043248553683296
+    second: all_cars_atlas_19
+  - first:
+      213: -4023011440675638622
+    second: all_cars_atlas_20
+  - first:
+      213: 1719615921905479660
+    second: all_cars_atlas_21
+  - first:
+      213: -5329402547819787232
+    second: all_cars_atlas_22
+  - first:
+      213: 5179381908523697989
+    second: all_cars_atlas_23
+  - first:
+      213: -7217198286889583858
+    second: all_cars_atlas_24
+  - first:
+      213: -2460930811425133482
+    second: all_cars_atlas_25
+  - first:
+      213: -8598197196946772707
+    second: all_cars_atlas_26
+  - first:
+      213: -368318250581333407
+    second: all_cars_atlas_27
+  - first:
+      213: -775393200844968001
+    second: all_cars_atlas_28
+  - first:
+      213: 5408702671930493687
+    second: all_cars_atlas_29
+  - first:
+      213: 7955810684888596064
+    second: all_cars_atlas_30
+  - first:
+      213: -9148477316857830701
+    second: all_cars_atlas_31
+  - first:
+      213: 4008900170397032123
+    second: all_cars_atlas_32
+  - first:
+      213: 8457766690819650176
+    second: all_cars_atlas_33
+  - first:
+      213: -6625543603086627508
+    second: all_cars_atlas_34
+  - first:
+      213: 7317543237491019145
+    second: all_cars_atlas_35
+  - first:
+      213: -2057749738933512543
+    second: all_cars_atlas_36
+  - first:
+      213: -5984317363619861949
+    second: all_cars_atlas_37
+  - first:
+      213: -266181658364428806
+    second: all_cars_atlas_38
+  - first:
+      213: -7258203703781653636
+    second: all_cars_atlas_39
+  - first:
+      213: 7437581774193887747
+    second: all_cars_atlas_40
+  - first:
+      213: -5215078349588761454
+    second: all_cars_atlas_41
+  - first:
+      213: 4783059533312274594
+    second: all_cars_atlas_42
+  - first:
+      213: 4813314007821822712
+    second: all_cars_atlas_43
+  - first:
+      213: -7159448096698276714
+    second: all_cars_atlas_44
+  - first:
+      213: 4075097563401517180
+    second: all_cars_atlas_45
+  - first:
+      213: 4613588599224314997
+    second: all_cars_atlas_46
+  - first:
+      213: -5842306614384196441
+    second: all_cars_atlas_47
+  - first:
+      213: -6488201130218696104
+    second: all_cars_atlas_48
+  - first:
+      213: 7488223441460384558
+    second: all_cars_atlas_49
+  - first:
+      213: -6977380956197691777
+    second: all_cars_atlas_50
+  - first:
+      213: 1373397757253647966
+    second: all_cars_atlas_51
+  - first:
+      213: -8060177463624140141
+    second: all_cars_atlas_52
+  - first:
+      213: 2263637517234739209
+    second: all_cars_atlas_53
+  - first:
+      213: 2400262495864637421
+    second: all_cars_atlas_54
+  - first:
+      213: -7946115923330547314
+    second: all_cars_atlas_55
+  - first:
+      213: 5973259660640729972
+    second: all_cars_atlas_56
+  - first:
+      213: 822060126377617824
+    second: all_cars_atlas_57
+  - first:
+      213: -2322526735554855774
+    second: all_cars_atlas_58
+  - first:
+      213: 1169465462627300556
+    second: all_cars_atlas_59
+  - first:
+      213: -6991464779437349140
+    second: all_cars_atlas_60
+  - first:
+      213: 8448413904786688893
+    second: all_cars_atlas_61
+  - first:
+      213: 6880779073998624056
+    second: all_cars_atlas_62
+  - first:
+      213: 1464073790373734486
+    second: all_cars_atlas_63
+  - first:
+      213: -8848589666045823334
+    second: all_cars_atlas_64
+  - first:
+      213: 1794490158655299863
+    second: all_cars_atlas_65
+  - first:
+      213: 6772296649557395657
+    second: all_cars_atlas_66
+  - first:
+      213: 1267365093992496587
+    second: all_cars_atlas_67
+  - first:
+      213: 1688277457082599364
+    second: all_cars_atlas_68
+  - first:
+      213: -1013180917837351969
+    second: all_cars_atlas_69
+  - first:
+      213: 7938346634737447201
+    second: all_cars_atlas_70
+  - first:
+      213: 8644804799486619306
+    second: all_cars_atlas_71
+  - first:
+      213: 1663737874063752378
+    second: all_cars_atlas_72
+  - first:
+      213: -5936136818589022471
+    second: all_cars_atlas_73
+  - first:
+      213: -6950462781645182799
+    second: all_cars_atlas_74
+  - first:
+      213: 6683581314216142978
+    second: all_cars_atlas_75
+  - first:
+      213: 6456189603306791074
+    second: all_cars_atlas_76
+  - first:
+      213: -786389665472252157
+    second: all_cars_atlas_77
+  - first:
+      213: 8373793047548646450
+    second: all_cars_atlas_78
+  - first:
+      213: -7287261587170374253
+    second: all_cars_atlas_79
+  - first:
+      213: 4170446916056061508
+    second: all_cars_atlas_80
+  - first:
+      213: 1803483814000979405
+    second: all_cars_atlas_81
+  - first:
+      213: -3809277469302785437
+    second: all_cars_atlas_82
+  - first:
+      213: 1700767576309988346
+    second: all_cars_atlas_83
+  - first:
+      213: -7417779500566459096
+    second: all_cars_atlas_84
+  - first:
+      213: -7260944205687697203
+    second: all_cars_atlas_85
+  - first:
+      213: 3780002044934332287
+    second: all_cars_atlas_86
+  - first:
+      213: -4067974788572159308
+    second: all_cars_atlas_87
+  - first:
+      213: 4567991654980261427
+    second: all_cars_atlas_88
+  - first:
+      213: 8075045941566272460
+    second: all_cars_atlas_89
+  - first:
+      213: -6557831286071602809
+    second: all_cars_atlas_90
+  - first:
+      213: 3921475317644674899
+    second: all_cars_atlas_91
+  - first:
+      213: -4789827338726450605
+    second: all_cars_atlas_92
+  - first:
+      213: 5977727581812922865
+    second: all_cars_atlas_93
+  - first:
+      213: 1530836552359444354
+    second: all_cars_atlas_94
+  - first:
+      213: 4079297048040605928
+    second: all_cars_atlas_95
+  - first:
+      213: 1270702475917685083
+    second: all_cars_atlas_96
+  - first:
+      213: -2168252826087193405
+    second: all_cars_atlas_97
+  - first:
+      213: 1924625936299205575
+    second: all_cars_atlas_98
+  - first:
+      213: 3103741387976088924
+    second: all_cars_atlas_99
+  - first:
+      213: -4501566158779283497
+    second: all_cars_atlas_100
+  - first:
+      213: 1766707814417147626
+    second: all_cars_atlas_101
+  - first:
+      213: 2276424948657390091
+    second: all_cars_atlas_102
+  - first:
+      213: -7721295925353967382
+    second: all_cars_atlas_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all_cars_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1170
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667a1e7ee539b8920800000000000000
+      internalID: 2993648413144360806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373e3b8708bacb40800000000000000
+      internalID: 5461379840680539959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1177
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b23c8d345bd9c90800000000000000
+      internalID: -7161368529445115093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1173
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e9fd2a870f5240800000000000000
+      internalID: 4782549619348988821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1171
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac68de2f3387d9e40800000000000000
+      internalID: 5664816070816270026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1173
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b61beb08aac840800000000000000
+      internalID: 5245189485168605685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1177
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6f6ca500b22da70800000000000000
+      internalID: 8850183498259429030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9346eff7a559af0800000000000000
+      internalID: -390306286922352176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1078
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f87b46cc39da2670800000000000000
+      internalID: 8514856900545444087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1076
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22e54b0486bb15f0800000000000000
+      internalID: -784833031804952019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1087
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bd9160db948d020800000000000000
+      internalID: 2366722680383200044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1078
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbd6c6b7ac3206b0800000000000000
+      internalID: -5331632317829555252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1079
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e7497004dc03040800000000000000
+      internalID: 4625422492198272640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1078
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096314ed0d93cef0800000000000000
+      internalID: -89054884630664952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1087
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4380c06be9e54750800000000000000
+      internalID: 6288689651842581327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1077
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8d626948017a430800000000000000
+      internalID: 3794019372723787944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 983
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612e0f8a375bfb20800000000000000
+      internalID: 3169222671805063530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 982
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4566adcbea6ad7ed0800000000000000
+      internalID: -2414590555777767852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 988
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25663ad0c22720a70800000000000000
+      internalID: 8791714956113569362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 984
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0696e31f431a02340800000000000000
+      internalID: 4837043248553683296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 984
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23237d8646b28c0800000000000000
+      internalID: -4023011440675638622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 984
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef284fe19d4dd710800000000000000
+      internalID: 1719615921905479660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 988
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc3208e982a06b0800000000000000
+      internalID: -5329402547819787232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 982
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547c3ad776cd0e740800000000000000
+      internalID: 5179381908523697989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 885
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b736c756c57db90800000000000000
+      internalID: -7217198286889583858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 886
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ce030377409ddd0800000000000000
+      internalID: -2460930811425133482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 892
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d6a3f54311da880800000000000000
+      internalID: -8598197196946772707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 888
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6ec5a08873eaf0800000000000000
+      internalID: -368318250581333407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 886
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfe166fdff3d35f0800000000000000
+      internalID: -775393200844968001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 888
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa8f107c629f0b40800000000000000
+      internalID: 5408702671930493687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 892
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eba0d8aa7b86e60800000000000000
+      internalID: 7955810684888596064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 886
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d268fcd9541a0180800000000000000
+      internalID: -9148477316857830701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 789
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9484077972a730800000000000000
+      internalID: 4008900170397032123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 788
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082bf6f7ef5006570800000000000000
+      internalID: 8457766690819650176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 797
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4de82652375d04a0800000000000000
+      internalID: -6625543603086627508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 793
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc633fdc22d8560800000000000000
+      internalID: 7317543237491019145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 791
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6173ec3876173e0800000000000000
+      internalID: -2057749738933512543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 793
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a6c36601f63fca0800000000000000
+      internalID: -5984317363619861949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 797
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb67721355e4cf0800000000000000
+      internalID: -266181658364428806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 789
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738ba0ef2ea54b90800000000000000
+      internalID: -7258203703781653636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 696
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a0fb6b739973760800000000000000
+      internalID: 7437581774193887747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 696
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947ee82fd150a7b0800000000000000
+      internalID: -5215078349588761454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 704
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0bf96cd47d06240800000000000000
+      internalID: 4783059533312274594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 695
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faa1ac86935cc240800000000000000
+      internalID: 4813314007821822712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 695
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e37073e784ac90800000000000000
+      internalID: -7159448096698276714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 695
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787b93a4a7ad8830800000000000000
+      internalID: 4075097563401517180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 704
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cae8c1362c60040800000000000000
+      internalID: 4613588599224314997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 696
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a407bc8615fbeea0800000000000000
+      internalID: -5842306614384196441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 596
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852d602b27745f5a0800000000000000
+      internalID: -6488201130218696104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 595
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23dff2bb838be760800000000000000
+      internalID: 7488223441460384558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 604
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed243fcfc5b2f90800000000000000
+      internalID: -6977380956197691777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 596
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5efb60dbf94f0310800000000000000
+      internalID: 1373397757253647966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 598
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af21e2d4f742090800000000000000
+      internalID: -8060177463624140141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 596
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081603245e0a6f10800000000000000
+      internalID: 2263637517234739209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 604
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de744b9d5027f4120800000000000000
+      internalID: 2400262495864637421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 596
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81cec50ba9b9b190800000000000000
+      internalID: -7946115923330547314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 501
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b39af730845e250800000000000000
+      internalID: 5973259660640729972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 500
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a920c8545b886b00800000000000000
+      internalID: 822060126377617824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 506
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb7e14d3ab4cfd0800000000000000
+      internalID: -2322526735554855774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 503
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4fcf464a6ca3010800000000000000
+      internalID: 1169465462627300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 504
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66bf153d359fe90800000000000000
+      internalID: -6991464779437349140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 503
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b084e4fabce3570800000000000000
+      internalID: 8448413904786688893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 506
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83511a3ac107d7f50800000000000000
+      internalID: 6880779073998624056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 497
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658af28fa5f615410800000000000000
+      internalID: 1464073790373734486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 407
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a967520a49e733580800000000000000
+      internalID: -8848589666045823334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 406
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711659baa4f47e810800000000000000
+      internalID: 1794490158655299863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 416
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8cf6eebe70cfd50800000000000000
+      internalID: 6772296649557395657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 408
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf62496d5969110800000000000000
+      internalID: 1267365093992496587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 409
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c745bff667fd6710800000000000000
+      internalID: 1688277457082599364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 408
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b913c25570f1f0800000000000000
+      internalID: -1013180917837351969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 416
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1217173843caa2e60800000000000000
+      internalID: 7938346634737447201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 407
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeedf9b92488f770800000000000000
+      internalID: 8644804799486619306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 310
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcfee618c8c61710800000000000000
+      internalID: 1663737874063752378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 309
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f642e5b30b9e9da0800000000000000
+      internalID: -5936136818589022471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 321
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8277bdceefa8f90800000000000000
+      internalID: -6950462781645182799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 312
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288aa4d4bc9d0cc50800000000000000
+      internalID: 6683581314216142978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 313
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0eba3ec3ef89950800000000000000
+      internalID: 6456189603306791074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 312
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307fc7604ce2615f0800000000000000
+      internalID: -786389665472252157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 321
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d5c51960b53470800000000000000
+      internalID: 8373793047548646450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 310
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d4c5f22327eda90800000000000000
+      internalID: -7287261587170374253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 214
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446152acf5760e930800000000000000
+      internalID: 4170446916056061508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 214
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcde1bb39f2470910800000000000000
+      internalID: 1803483814000979405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 219
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36afe47f25ab22bc0800000000000000
+      internalID: -3809277469302785437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb757f79175a9710800000000000000
+      internalID: 1700767576309988346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 216
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dcf8668d0ce0990800000000000000
+      internalID: -7417779500566459096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 216
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0dd0e07b1fb3b90800000000000000
+      internalID: -7260944205687697203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 219
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9f8225d3457430800000000000000
+      internalID: 3780002044934332287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 215
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b269eb9b76ab87c0800000000000000
+      internalID: -4067974788572159308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 118
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3361c0c3534c46f30800000000000000
+      internalID: 4567991654980261427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3740c1083501070800000000000000
+      internalID: 8075045941566272460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 130
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78152c0b037edf4a0800000000000000
+      internalID: -6557831286071602809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 122
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3574ca74601eb6630800000000000000
+      internalID: 3921475317644674899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 125
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a51cbb96d178db0800000000000000
+      internalID: -4789827338726450605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 122
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f99306709725f250800000000000000
+      internalID: 5977727581812922865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 130
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f7190dbbf9e3510800000000000000
+      internalID: 1530836552359444354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 119
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e882c95d039c9830800000000000000
+      internalID: 4079297048040605928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51784c5b2172a110800000000000000
+      internalID: 1270702475917685083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c406d5ea81d8e1e0800000000000000
+      internalID: -2168252826087193405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 30
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c32e9a8715a5ba10800000000000000
+      internalID: 1924625936299205575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 27
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d1ef81954b21b20800000000000000
+      internalID: 3103741387976088924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d78a0dcd693781c0800000000000000
+      internalID: -4501566158779283497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 27
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ad34956b948810800000000000000
+      internalID: 1766707814417147626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 30
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b028f860e6c779f10800000000000000
+      internalID: 2276424948657390091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all_cars_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 27
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae01b9bd34278d490800000000000000
+      internalID: -7721295925353967382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      all_cars_atlas_0: 2993648413144360806
+      all_cars_atlas_1: 5461379840680539959
+      all_cars_atlas_10: 2366722680383200044
+      all_cars_atlas_100: -4501566158779283497
+      all_cars_atlas_101: 1766707814417147626
+      all_cars_atlas_102: 2276424948657390091
+      all_cars_atlas_103: -7721295925353967382
+      all_cars_atlas_11: -5331632317829555252
+      all_cars_atlas_12: 4625422492198272640
+      all_cars_atlas_13: -89054884630664952
+      all_cars_atlas_14: 6288689651842581327
+      all_cars_atlas_15: 3794019372723787944
+      all_cars_atlas_16: 3169222671805063530
+      all_cars_atlas_17: -2414590555777767852
+      all_cars_atlas_18: 8791714956113569362
+      all_cars_atlas_19: 4837043248553683296
+      all_cars_atlas_2: -7161368529445115093
+      all_cars_atlas_20: -4023011440675638622
+      all_cars_atlas_21: 1719615921905479660
+      all_cars_atlas_22: -5329402547819787232
+      all_cars_atlas_23: 5179381908523697989
+      all_cars_atlas_24: -7217198286889583858
+      all_cars_atlas_25: -2460930811425133482
+      all_cars_atlas_26: -8598197196946772707
+      all_cars_atlas_27: -368318250581333407
+      all_cars_atlas_28: -775393200844968001
+      all_cars_atlas_29: 5408702671930493687
+      all_cars_atlas_3: 4782549619348988821
+      all_cars_atlas_30: 7955810684888596064
+      all_cars_atlas_31: -9148477316857830701
+      all_cars_atlas_32: 4008900170397032123
+      all_cars_atlas_33: 8457766690819650176
+      all_cars_atlas_34: -6625543603086627508
+      all_cars_atlas_35: 7317543237491019145
+      all_cars_atlas_36: -2057749738933512543
+      all_cars_atlas_37: -5984317363619861949
+      all_cars_atlas_38: -266181658364428806
+      all_cars_atlas_39: -7258203703781653636
+      all_cars_atlas_4: 5664816070816270026
+      all_cars_atlas_40: 7437581774193887747
+      all_cars_atlas_41: -5215078349588761454
+      all_cars_atlas_42: 4783059533312274594
+      all_cars_atlas_43: 4813314007821822712
+      all_cars_atlas_44: -7159448096698276714
+      all_cars_atlas_45: 4075097563401517180
+      all_cars_atlas_46: 4613588599224314997
+      all_cars_atlas_47: -5842306614384196441
+      all_cars_atlas_48: -6488201130218696104
+      all_cars_atlas_49: 7488223441460384558
+      all_cars_atlas_5: 5245189485168605685
+      all_cars_atlas_50: -6977380956197691777
+      all_cars_atlas_51: 1373397757253647966
+      all_cars_atlas_52: -8060177463624140141
+      all_cars_atlas_53: 2263637517234739209
+      all_cars_atlas_54: 2400262495864637421
+      all_cars_atlas_55: -7946115923330547314
+      all_cars_atlas_56: 5973259660640729972
+      all_cars_atlas_57: 822060126377617824
+      all_cars_atlas_58: -2322526735554855774
+      all_cars_atlas_59: 1169465462627300556
+      all_cars_atlas_6: 8850183498259429030
+      all_cars_atlas_60: -6991464779437349140
+      all_cars_atlas_61: 8448413904786688893
+      all_cars_atlas_62: 6880779073998624056
+      all_cars_atlas_63: 1464073790373734486
+      all_cars_atlas_64: -8848589666045823334
+      all_cars_atlas_65: 1794490158655299863
+      all_cars_atlas_66: 6772296649557395657
+      all_cars_atlas_67: 1267365093992496587
+      all_cars_atlas_68: 1688277457082599364
+      all_cars_atlas_69: -1013180917837351969
+      all_cars_atlas_7: -390306286922352176
+      all_cars_atlas_70: 7938346634737447201
+      all_cars_atlas_71: 8644804799486619306
+      all_cars_atlas_72: 1663737874063752378
+      all_cars_atlas_73: -5936136818589022471
+      all_cars_atlas_74: -6950462781645182799
+      all_cars_atlas_75: 6683581314216142978
+      all_cars_atlas_76: 6456189603306791074
+      all_cars_atlas_77: -786389665472252157
+      all_cars_atlas_78: 8373793047548646450
+      all_cars_atlas_79: -7287261587170374253
+      all_cars_atlas_8: 8514856900545444087
+      all_cars_atlas_80: 4170446916056061508
+      all_cars_atlas_81: 1803483814000979405
+      all_cars_atlas_82: -3809277469302785437
+      all_cars_atlas_83: 1700767576309988346
+      all_cars_atlas_84: -7417779500566459096
+      all_cars_atlas_85: -7260944205687697203
+      all_cars_atlas_86: 3780002044934332287
+      all_cars_atlas_87: -4067974788572159308
+      all_cars_atlas_88: 4567991654980261427
+      all_cars_atlas_89: 8075045941566272460
+      all_cars_atlas_9: -784833031804952019
+      all_cars_atlas_90: -6557831286071602809
+      all_cars_atlas_91: 3921475317644674899
+      all_cars_atlas_92: -4789827338726450605
+      all_cars_atlas_93: 5977727581812922865
+      all_cars_atlas_94: 1530836552359444354
+      all_cars_atlas_95: 4079297048040605928
+      all_cars_atlas_96: 1270702475917685083
+      all_cars_atlas_97: -2168252826087193405
+      all_cars_atlas_98: 1924625936299205575
+      all_cars_atlas_99: 3103741387976088924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

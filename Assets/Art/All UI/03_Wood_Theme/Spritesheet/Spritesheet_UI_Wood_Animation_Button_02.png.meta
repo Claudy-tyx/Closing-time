@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 424d43c6a077641a697ed26394ffd928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 981839573177011672
+    second: Spritesheet_UI_Wood_Animation_Button_02_0
+  - first:
+      213: -1631645348363534133
+    second: Spritesheet_UI_Wood_Animation_Button_02_1
+  - first:
+      213: -6402048114330716547
+    second: Spritesheet_UI_Wood_Animation_Button_02_2
+  - first:
+      213: -452084796125111127
+    second: Spritesheet_UI_Wood_Animation_Button_02_3
+  - first:
+      213: -2465188507746518412
+    second: Spritesheet_UI_Wood_Animation_Button_02_4
+  - first:
+      213: 7995211117275308488
+    second: Spritesheet_UI_Wood_Animation_Button_02_5
+  - first:
+      213: -433044071797836088
+    second: Spritesheet_UI_Wood_Animation_Button_02_6
+  - first:
+      213: -7929075082423479161
+    second: Spritesheet_UI_Wood_Animation_Button_02_7
+  - first:
+      213: -3833895756049532522
+    second: Spritesheet_UI_Wood_Animation_Button_02_8
+  - first:
+      213: -7493838050951774668
+    second: Spritesheet_UI_Wood_Animation_Button_02_9
+  - first:
+      213: -7168413788484673522
+    second: Spritesheet_UI_Wood_Animation_Button_02_10
+  - first:
+      213: 3682568538317650340
+    second: Spritesheet_UI_Wood_Animation_Button_02_11
+  - first:
+      213: -685352794065204304
+    second: Spritesheet_UI_Wood_Animation_Button_02_12
+  - first:
+      213: -6875942255291448969
+    second: Spritesheet_UI_Wood_Animation_Button_02_13
+  - first:
+      213: 2076237460612242043
+    second: Spritesheet_UI_Wood_Animation_Button_02_14
+  - first:
+      213: 5988221995177328147
+    second: Spritesheet_UI_Wood_Animation_Button_02_15
+  - first:
+      213: 1185213663041470532
+    second: Spritesheet_UI_Wood_Animation_Button_02_16
+  - first:
+      213: -129977384401341011
+    second: Spritesheet_UI_Wood_Animation_Button_02_17
+  - first:
+      213: 2451992033850376955
+    second: Spritesheet_UI_Wood_Animation_Button_02_18
+  - first:
+      213: -1360483617653345856
+    second: Spritesheet_UI_Wood_Animation_Button_02_19
+  - first:
+      213: -8709957755655658199
+    second: Spritesheet_UI_Wood_Animation_Button_02_20
+  - first:
+      213: 758618219315017725
+    second: Spritesheet_UI_Wood_Animation_Button_02_21
+  - first:
+      213: 4730106103419974368
+    second: Spritesheet_UI_Wood_Animation_Button_02_22
+  - first:
+      213: -6742993276957850538
+    second: Spritesheet_UI_Wood_Animation_Button_02_23
+  - first:
+      213: -257218444107243059
+    second: Spritesheet_UI_Wood_Animation_Button_02_24
+  - first:
+      213: -2208390415848979210
+    second: Spritesheet_UI_Wood_Animation_Button_02_25
+  - first:
+      213: 8746683465145951513
+    second: Spritesheet_UI_Wood_Animation_Button_02_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd03a9c3e130ad00800000000000000
+      internalID: 981839573177011672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08f53533b3b59e0800000000000000
+      internalID: -1631645348363534133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76bb56d82b5727a0800000000000000
+      internalID: -6402048114330716547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac9b9ee54fd9b9f0800000000000000
+      internalID: -452084796125111127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 255
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab4630d14e9cdd0800000000000000
+      internalID: -2465188507746518412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e2759622b4fe60800000000000000
+      internalID: 7995211117275308488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6b66806b48df9f0800000000000000
+      internalID: -433044071797836088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7845fbaf83446f190800000000000000
+      internalID: -7929075082423479161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6993aca6f144bcac0800000000000000
+      internalID: -3833895756049532522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb6b82ff9800890800000000000000
+      internalID: -7493838050951774668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00eb56a3ada48c90800000000000000
+      internalID: -7168413788484673522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f373139c1b1330800000000000000
+      internalID: 3682568538317650340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb0ce3d3432d76f0800000000000000
+      internalID: -685352794065204304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714149f2feb390a0800000000000000
+      internalID: -6875942255291448969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ad62558f640dc10800000000000000
+      internalID: 2076237460612242043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb9ba7d207a1350800000000000000
+      internalID: 5988221995177328147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440c6880c89b27010800000000000000
+      internalID: 1185213663041470532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da57cede14a323ef0800000000000000
+      internalID: -129977384401341011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf24db973c9370220800000000000000
+      internalID: 2451992033850376955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b80f9b579e1de0800000000000000
+      internalID: -1360483617653345856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9256c7d8193002780800000000000000
+      internalID: -8709957755655658199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 95
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7396a4047278a00800000000000000
+      internalID: 758618219315017725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 384
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2314c9076b4a140800000000000000
+      internalID: 4730106103419974368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654841c27531c62a0800000000000000
+      internalID: -6742993276957850538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc12f49103d2e6cf0800000000000000
+      internalID: -257218444107243059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 384
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c1f90e983a51e0800000000000000
+      internalID: -2208390415848979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Button_02_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915aec60546726970800000000000000
+      internalID: 8746683465145951513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_UI_Wood_Animation_Button_02_0: 981839573177011672
+      Spritesheet_UI_Wood_Animation_Button_02_1: -1631645348363534133
+      Spritesheet_UI_Wood_Animation_Button_02_10: -7168413788484673522
+      Spritesheet_UI_Wood_Animation_Button_02_11: 3682568538317650340
+      Spritesheet_UI_Wood_Animation_Button_02_12: -685352794065204304
+      Spritesheet_UI_Wood_Animation_Button_02_13: -6875942255291448969
+      Spritesheet_UI_Wood_Animation_Button_02_14: 2076237460612242043
+      Spritesheet_UI_Wood_Animation_Button_02_15: 5988221995177328147
+      Spritesheet_UI_Wood_Animation_Button_02_16: 1185213663041470532
+      Spritesheet_UI_Wood_Animation_Button_02_17: -129977384401341011
+      Spritesheet_UI_Wood_Animation_Button_02_18: 2451992033850376955
+      Spritesheet_UI_Wood_Animation_Button_02_19: -1360483617653345856
+      Spritesheet_UI_Wood_Animation_Button_02_2: -6402048114330716547
+      Spritesheet_UI_Wood_Animation_Button_02_20: -8709957755655658199
+      Spritesheet_UI_Wood_Animation_Button_02_21: 758618219315017725
+      Spritesheet_UI_Wood_Animation_Button_02_22: 4730106103419974368
+      Spritesheet_UI_Wood_Animation_Button_02_23: -6742993276957850538
+      Spritesheet_UI_Wood_Animation_Button_02_24: -257218444107243059
+      Spritesheet_UI_Wood_Animation_Button_02_25: -2208390415848979210
+      Spritesheet_UI_Wood_Animation_Button_02_26: 8746683465145951513
+      Spritesheet_UI_Wood_Animation_Button_02_3: -452084796125111127
+      Spritesheet_UI_Wood_Animation_Button_02_4: -2465188507746518412
+      Spritesheet_UI_Wood_Animation_Button_02_5: 7995211117275308488
+      Spritesheet_UI_Wood_Animation_Button_02_6: -433044071797836088
+      Spritesheet_UI_Wood_Animation_Button_02_7: -7929075082423479161
+      Spritesheet_UI_Wood_Animation_Button_02_8: -3833895756049532522
+      Spritesheet_UI_Wood_Animation_Button_02_9: -7493838050951774668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

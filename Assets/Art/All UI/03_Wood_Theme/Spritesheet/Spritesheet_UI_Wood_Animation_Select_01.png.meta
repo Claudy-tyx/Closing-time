@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 40111bfdcbd96496f95c8aa12b09b461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5859674740461608858
+    second: Spritesheet_UI_Wood_Animation_Select_01_0
+  - first:
+      213: 8147926038633299285
+    second: Spritesheet_UI_Wood_Animation_Select_01_1
+  - first:
+      213: 3672665017576476623
+    second: Spritesheet_UI_Wood_Animation_Select_01_2
+  - first:
+      213: -3147800994034274749
+    second: Spritesheet_UI_Wood_Animation_Select_01_3
+  - first:
+      213: -6834600633427924362
+    second: Spritesheet_UI_Wood_Animation_Select_01_4
+  - first:
+      213: 6946097686591691967
+    second: Spritesheet_UI_Wood_Animation_Select_01_5
+  - first:
+      213: -1865497403989301757
+    second: Spritesheet_UI_Wood_Animation_Select_01_6
+  - first:
+      213: -6176413916872385832
+    second: Spritesheet_UI_Wood_Animation_Select_01_7
+  - first:
+      213: 7406167142600538124
+    second: Spritesheet_UI_Wood_Animation_Select_01_8
+  - first:
+      213: 8125528027261687680
+    second: Spritesheet_UI_Wood_Animation_Select_01_9
+  - first:
+      213: -1142464899496394043
+    second: Spritesheet_UI_Wood_Animation_Select_01_10
+  - first:
+      213: 8037271391712887062
+    second: Spritesheet_UI_Wood_Animation_Select_01_11
+  - first:
+      213: 8156905110398971737
+    second: Spritesheet_UI_Wood_Animation_Select_01_12
+  - first:
+      213: -1754532272155444784
+    second: Spritesheet_UI_Wood_Animation_Select_01_13
+  - first:
+      213: -8533158224635739723
+    second: Spritesheet_UI_Wood_Animation_Select_01_14
+  - first:
+      213: -216675677111637400
+    second: Spritesheet_UI_Wood_Animation_Select_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1b8c612fb15150800000000000000
+      internalID: 5859674740461608858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55db4e4009f331170800000000000000
+      internalID: 8147926038633299285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf46a7ff5de7f230800000000000000
+      internalID: 3672665017576476623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e27f67ca3c054d0800000000000000
+      internalID: -3147800994034274749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a6ed66fee9621a0800000000000000
+      internalID: -6834600633427924362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd5704b0f756060800000000000000
+      internalID: 6946097686591691967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306edc1befb6c16e0800000000000000
+      internalID: -1865497403989301757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dada034448f84aa0800000000000000
+      internalID: -6176413916872385832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ffd1d6cdf7c660800000000000000
+      internalID: 7406167142600538124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d96d90bca3c070800000000000000
+      internalID: 8125528027261687680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24a291a362520f0800000000000000
+      internalID: -1142464899496394043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c47a5fbf1a8f60800000000000000
+      internalID: 8037271391712887062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f26e31bf5233170800000000000000
+      internalID: 8156905110398971737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d93733c136a6a7e0800000000000000
+      internalID: -1754532272155444784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b142682ec1249980800000000000000
+      internalID: -8533158224635739723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Wood_Animation_Select_01_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a2b42ae963efcf0800000000000000
+      internalID: -216675677111637400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_UI_Wood_Animation_Select_01_0: 5859674740461608858
+      Spritesheet_UI_Wood_Animation_Select_01_1: 8147926038633299285
+      Spritesheet_UI_Wood_Animation_Select_01_10: -1142464899496394043
+      Spritesheet_UI_Wood_Animation_Select_01_11: 8037271391712887062
+      Spritesheet_UI_Wood_Animation_Select_01_12: 8156905110398971737
+      Spritesheet_UI_Wood_Animation_Select_01_13: -1754532272155444784
+      Spritesheet_UI_Wood_Animation_Select_01_14: -8533158224635739723
+      Spritesheet_UI_Wood_Animation_Select_01_15: -216675677111637400
+      Spritesheet_UI_Wood_Animation_Select_01_2: 3672665017576476623
+      Spritesheet_UI_Wood_Animation_Select_01_3: -3147800994034274749
+      Spritesheet_UI_Wood_Animation_Select_01_4: -6834600633427924362
+      Spritesheet_UI_Wood_Animation_Select_01_5: 6946097686591691967
+      Spritesheet_UI_Wood_Animation_Select_01_6: -1865497403989301757
+      Spritesheet_UI_Wood_Animation_Select_01_7: -6176413916872385832
+      Spritesheet_UI_Wood_Animation_Select_01_8: 7406167142600538124
+      Spritesheet_UI_Wood_Animation_Select_01_9: 8125528027261687680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

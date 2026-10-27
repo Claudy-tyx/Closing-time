@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio / Rider
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# Unity temporary files
+*.tmp
+*.bak
+*.swp

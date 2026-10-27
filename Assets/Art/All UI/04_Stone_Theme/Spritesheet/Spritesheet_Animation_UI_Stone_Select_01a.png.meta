@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: fef89a321d59b45fcaea5a075a616112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2198047019859054959
+    second: Spritesheet_Animation_UI_Stone_Select_01a_0
+  - first:
+      213: 1691655502014001786
+    second: Spritesheet_Animation_UI_Stone_Select_01a_1
+  - first:
+      213: -1954883322779149583
+    second: Spritesheet_Animation_UI_Stone_Select_01a_2
+  - first:
+      213: -8322844108252719315
+    second: Spritesheet_Animation_UI_Stone_Select_01a_3
+  - first:
+      213: 4179409667551322779
+    second: Spritesheet_Animation_UI_Stone_Select_01a_4
+  - first:
+      213: 7492678130339131839
+    second: Spritesheet_Animation_UI_Stone_Select_01a_5
+  - first:
+      213: 7333441597438069588
+    second: Spritesheet_Animation_UI_Stone_Select_01a_6
+  - first:
+      213: -3382727063401105913
+    second: Spritesheet_Animation_UI_Stone_Select_01a_7
+  - first:
+      213: 1693229638161148139
+    second: Spritesheet_Animation_UI_Stone_Select_01a_8
+  - first:
+      213: 2139573647009438630
+    second: Spritesheet_Animation_UI_Stone_Select_01a_9
+  - first:
+      213: -5402197612874199789
+    second: Spritesheet_Animation_UI_Stone_Select_01a_10
+  - first:
+      213: 5052366905512395871
+    second: Spritesheet_Animation_UI_Stone_Select_01a_11
+  - first:
+      213: -4391474094651568920
+    second: Spritesheet_Animation_UI_Stone_Select_01a_12
+  - first:
+      213: 1948636322436448565
+    second: Spritesheet_Animation_UI_Stone_Select_01a_13
+  - first:
+      213: -7937836135730895556
+    second: Spritesheet_Animation_UI_Stone_Select_01a_14
+  - first:
+      213: 1610622946741329322
+    second: Spritesheet_Animation_UI_Stone_Select_01a_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ee1b591e7fe71e0800000000000000
+      internalID: -2198047019859054959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7231ef57b7f97710800000000000000
+      internalID: 1691655502014001786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fad960b9fbded4e0800000000000000
+      internalID: -1954883322779149583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27d4ae31615f7c80800000000000000
+      internalID: -8322844108252719315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ea3df2fe300a30800000000000000
+      internalID: 4179409667551322779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b337cf075bf760800000000000000
+      internalID: 7492678130339131839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b8e54574e95c560800000000000000
+      internalID: 7333441597438069588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70670e588a32e01d0800000000000000
+      internalID: -3382727063401105913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be822c1826f8f7710800000000000000
+      internalID: 1693229638161148139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abd8c065ea41bd10800000000000000
+      internalID: 2139573647009438630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d8b26a4e98705b0800000000000000
+      internalID: -5402197612874199789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5481069eec9d1640800000000000000
+      internalID: 5052366905512395871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec86f3f3995e03c0800000000000000
+      internalID: -4391474094651568920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5318f333962fa0b10800000000000000
+      internalID: 1948636322436448565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35208c471427d190800000000000000
+      internalID: -7937836135730895556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Stone_Select_01a_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad1c9f59051a5610800000000000000
+      internalID: 1610622946741329322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Stone_Select_01a_0: -2198047019859054959
+      Spritesheet_Animation_UI_Stone_Select_01a_1: 1691655502014001786
+      Spritesheet_Animation_UI_Stone_Select_01a_10: -5402197612874199789
+      Spritesheet_Animation_UI_Stone_Select_01a_11: 5052366905512395871
+      Spritesheet_Animation_UI_Stone_Select_01a_12: -4391474094651568920
+      Spritesheet_Animation_UI_Stone_Select_01a_13: 1948636322436448565
+      Spritesheet_Animation_UI_Stone_Select_01a_14: -7937836135730895556
+      Spritesheet_Animation_UI_Stone_Select_01a_15: 1610622946741329322
+      Spritesheet_Animation_UI_Stone_Select_01a_2: -1954883322779149583
+      Spritesheet_Animation_UI_Stone_Select_01a_3: -8322844108252719315
+      Spritesheet_Animation_UI_Stone_Select_01a_4: 4179409667551322779
+      Spritesheet_Animation_UI_Stone_Select_01a_5: 7492678130339131839
+      Spritesheet_Animation_UI_Stone_Select_01a_6: 7333441597438069588
+      Spritesheet_Animation_UI_Stone_Select_01a_7: -3382727063401105913
+      Spritesheet_Animation_UI_Stone_Select_01a_8: 1693229638161148139
+      Spritesheet_Animation_UI_Stone_Select_01a_9: 2139573647009438630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

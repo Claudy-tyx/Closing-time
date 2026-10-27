@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 2da87b0d6dd0643b5b70385a3970027d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7173929973287162014
+    second: Spritesheet_Animation_UI_Glass_Button_01a_0
+  - first:
+      213: -4084287808490434441
+    second: Spritesheet_Animation_UI_Glass_Button_01a_1
+  - first:
+      213: 8857397976016196070
+    second: Spritesheet_Animation_UI_Glass_Button_01a_2
+  - first:
+      213: -8155981316321221844
+    second: Spritesheet_Animation_UI_Glass_Button_01a_3
+  - first:
+      213: 3110599744955986769
+    second: Spritesheet_Animation_UI_Glass_Button_01a_4
+  - first:
+      213: -6714830755548529852
+    second: Spritesheet_Animation_UI_Glass_Button_01a_5
+  - first:
+      213: -93398052394407296
+    second: Spritesheet_Animation_UI_Glass_Button_01a_6
+  - first:
+      213: -2807368070767264006
+    second: Spritesheet_Animation_UI_Glass_Button_01a_7
+  - first:
+      213: 7297465562272837846
+    second: Spritesheet_Animation_UI_Glass_Button_01a_8
+  - first:
+      213: 604113301664898948
+    second: Spritesheet_Animation_UI_Glass_Button_01a_9
+  - first:
+      213: -6532484407147859349
+    second: Spritesheet_Animation_UI_Glass_Button_01a_10
+  - first:
+      213: 6519338532591962491
+    second: Spritesheet_Animation_UI_Glass_Button_01a_11
+  - first:
+      213: 7399353426341533944
+    second: Spritesheet_Animation_UI_Glass_Button_01a_12
+  - first:
+      213: -278564833605351060
+    second: Spritesheet_Animation_UI_Glass_Button_01a_13
+  - first:
+      213: -9104102797942539704
+    second: Spritesheet_Animation_UI_Glass_Button_01a_14
+  - first:
+      213: -9012498211420799478
+    second: Spritesheet_Animation_UI_Glass_Button_01a_15
+  - first:
+      213: -4994610321458910577
+    second: Spritesheet_Animation_UI_Glass_Button_01a_16
+  - first:
+      213: -4163824530595709829
+    second: Spritesheet_Animation_UI_Glass_Button_01a_17
+  - first:
+      213: 3710770254492159129
+    second: Spritesheet_Animation_UI_Glass_Button_01a_18
+  - first:
+      213: 1402787192924147999
+    second: Spritesheet_Animation_UI_Glass_Button_01a_19
+  - first:
+      213: -4993616242511892388
+    second: Spritesheet_Animation_UI_Glass_Button_01a_20
+  - first:
+      213: -2310577954460086915
+    second: Spritesheet_Animation_UI_Glass_Button_01a_21
+  - first:
+      213: 2802189006360036200
+    second: Spritesheet_Animation_UI_Glass_Button_01a_22
+  - first:
+      213: -1085181068434464867
+    second: Spritesheet_Animation_UI_Glass_Button_01a_23
+  - first:
+      213: 4117482708338893540
+    second: Spritesheet_Animation_UI_Glass_Button_01a_24
+  - first:
+      213: 4549374310703686476
+    second: Spritesheet_Animation_UI_Glass_Button_01a_25
+  - first:
+      213: 627872564910112161
+    second: Spritesheet_Animation_UI_Glass_Button_01a_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe0bac2b4117c90800000000000000
+      internalID: -7173929973287162014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 258
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770187ea0e1b157c0800000000000000
+      internalID: -4084287808490434441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 258
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e195bad78ccbea70800000000000000
+      internalID: 8857397976016196070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 258
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2363fd743220de80800000000000000
+      internalID: -8155981316321221844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153b584ccf11b2b20800000000000000
+      internalID: 3110599744955986769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 226
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b79a8210120d2a0800000000000000
+      internalID: -6714830755548529852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 226
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a615857fe24bef0800000000000000
+      internalID: -93398052394407296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 226
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb42c1d993a09d0800000000000000
+      internalID: -2807368070767264006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 194
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d03be7e34ec54560800000000000000
+      internalID: 7297465562272837846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f13ddd8dd326800800000000000000
+      internalID: 604113301664898948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 194
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627c23da04f755a0800000000000000
+      internalID: -6532484407147859349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 194
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7909adbad7597a50800000000000000
+      internalID: 6519338532591962491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f818a0ecb8cfa660800000000000000
+      internalID: 7399353426341533944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 162
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69890e72c6522cf0800000000000000
+      internalID: -278564833605351060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 162
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84abef9adbab7a180800000000000000
+      internalID: -9104102797942539704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7b6180ac2de280800000000000000
+      internalID: -9012498211420799478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a21fd00649faab0800000000000000
+      internalID: -4994610321458910577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 130
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf8ca76af1736c0800000000000000
+      internalID: -4163824530595709829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c471ec2ed4f7330800000000000000
+      internalID: 3710770254492159129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 130
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1116b90583b77310800000000000000
+      internalID: 1402787192924147999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5035781c7c13bab0800000000000000
+      internalID: -4993616242511892388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 98
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dce86a79d2fefd0800000000000000
+      internalID: -2310577954460086915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 98
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863489dfd0063e620800000000000000
+      internalID: 2802189006360036200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 98
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1cfa5199a0f0f0800000000000000
+      internalID: -1085181068434464867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e26a5735bc342930800000000000000
+      internalID: 4117482708338893540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e7cbf4df922f30800000000000000
+      internalID: 4549374310703686476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Glass_Button_01a_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3eab65c6a6b800800000000000000
+      internalID: 627872564910112161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Glass_Button_01a_0: -7173929973287162014
+      Spritesheet_Animation_UI_Glass_Button_01a_1: -4084287808490434441
+      Spritesheet_Animation_UI_Glass_Button_01a_10: -6532484407147859349
+      Spritesheet_Animation_UI_Glass_Button_01a_11: 6519338532591962491
+      Spritesheet_Animation_UI_Glass_Button_01a_12: 7399353426341533944
+      Spritesheet_Animation_UI_Glass_Button_01a_13: -278564833605351060
+      Spritesheet_Animation_UI_Glass_Button_01a_14: -9104102797942539704
+      Spritesheet_Animation_UI_Glass_Button_01a_15: -9012498211420799478
+      Spritesheet_Animation_UI_Glass_Button_01a_16: -4994610321458910577
+      Spritesheet_Animation_UI_Glass_Button_01a_17: -4163824530595709829
+      Spritesheet_Animation_UI_Glass_Button_01a_18: 3710770254492159129
+      Spritesheet_Animation_UI_Glass_Button_01a_19: 1402787192924147999
+      Spritesheet_Animation_UI_Glass_Button_01a_2: 8857397976016196070
+      Spritesheet_Animation_UI_Glass_Button_01a_20: -4993616242511892388
+      Spritesheet_Animation_UI_Glass_Button_01a_21: -2310577954460086915
+      Spritesheet_Animation_UI_Glass_Button_01a_22: 2802189006360036200
+      Spritesheet_Animation_UI_Glass_Button_01a_23: -1085181068434464867
+      Spritesheet_Animation_UI_Glass_Button_01a_24: 4117482708338893540
+      Spritesheet_Animation_UI_Glass_Button_01a_25: 4549374310703686476
+      Spritesheet_Animation_UI_Glass_Button_01a_26: 627872564910112161
+      Spritesheet_Animation_UI_Glass_Button_01a_3: -8155981316321221844
+      Spritesheet_Animation_UI_Glass_Button_01a_4: 3110599744955986769
+      Spritesheet_Animation_UI_Glass_Button_01a_5: -6714830755548529852
+      Spritesheet_Animation_UI_Glass_Button_01a_6: -93398052394407296
+      Spritesheet_Animation_UI_Glass_Button_01a_7: -2807368070767264006
+      Spritesheet_Animation_UI_Glass_Button_01a_8: 7297465562272837846
+      Spritesheet_Animation_UI_Glass_Button_01a_9: 604113301664898948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

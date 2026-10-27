@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: a38fb5fd00ea645bab0af42eb04c00c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1613740597734349015
+    second: Spritesheet_Animation_UI_Metal_Button_01a_0
+  - first:
+      213: -5100422969163595573
+    second: Spritesheet_Animation_UI_Metal_Button_01a_1
+  - first:
+      213: 3055227205628882469
+    second: Spritesheet_Animation_UI_Metal_Button_01a_2
+  - first:
+      213: -7260945995505419972
+    second: Spritesheet_Animation_UI_Metal_Button_01a_3
+  - first:
+      213: 4793534409261708503
+    second: Spritesheet_Animation_UI_Metal_Button_01a_4
+  - first:
+      213: 2012713850298007684
+    second: Spritesheet_Animation_UI_Metal_Button_01a_5
+  - first:
+      213: 123625273078815060
+    second: Spritesheet_Animation_UI_Metal_Button_01a_6
+  - first:
+      213: -6524290182185228350
+    second: Spritesheet_Animation_UI_Metal_Button_01a_7
+  - first:
+      213: -56258332042078093
+    second: Spritesheet_Animation_UI_Metal_Button_01a_8
+  - first:
+      213: -7003755360401874197
+    second: Spritesheet_Animation_UI_Metal_Button_01a_9
+  - first:
+      213: 5817653074263081769
+    second: Spritesheet_Animation_UI_Metal_Button_01a_10
+  - first:
+      213: 5190927727723638384
+    second: Spritesheet_Animation_UI_Metal_Button_01a_11
+  - first:
+      213: 7752164419439589424
+    second: Spritesheet_Animation_UI_Metal_Button_01a_12
+  - first:
+      213: -3984196641756093234
+    second: Spritesheet_Animation_UI_Metal_Button_01a_13
+  - first:
+      213: 1237817891066917329
+    second: Spritesheet_Animation_UI_Metal_Button_01a_14
+  - first:
+      213: -4570697382487189062
+    second: Spritesheet_Animation_UI_Metal_Button_01a_15
+  - first:
+      213: -1866028855020896004
+    second: Spritesheet_Animation_UI_Metal_Button_01a_16
+  - first:
+      213: -6985822929051510888
+    second: Spritesheet_Animation_UI_Metal_Button_01a_17
+  - first:
+      213: -3814464078250465627
+    second: Spritesheet_Animation_UI_Metal_Button_01a_18
+  - first:
+      213: -5571655558857903850
+    second: Spritesheet_Animation_UI_Metal_Button_01a_19
+  - first:
+      213: -7461711095625408893
+    second: Spritesheet_Animation_UI_Metal_Button_01a_20
+  - first:
+      213: 5544109916202035174
+    second: Spritesheet_Animation_UI_Metal_Button_01a_21
+  - first:
+      213: 5201234925760970556
+    second: Spritesheet_Animation_UI_Metal_Button_01a_22
+  - first:
+      213: -5192468324584130206
+    second: Spritesheet_Animation_UI_Metal_Button_01a_23
+  - first:
+      213: -6444610765635170299
+    second: Spritesheet_Animation_UI_Metal_Button_01a_24
+  - first:
+      213: 1715517646004316256
+    second: Spritesheet_Animation_UI_Metal_Button_01a_25
+  - first:
+      213: -6282051837408340092
+    second: Spritesheet_Animation_UI_Metal_Button_01a_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ea60f977da99e0800000000000000
+      internalID: -1613740597734349015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0c2ce2558a739b0800000000000000
+      internalID: -5100422969163595573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6e9bc4f8566a20800000000000000
+      internalID: 3055227205628882469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39ba945610fb3b90800000000000000
+      internalID: -7260945995505419972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 255
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f7a2e52e068240800000000000000
+      internalID: 4793534409261708503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480858145989eeb10800000000000000
+      internalID: 2012713850298007684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599f17e78437b100800000000000000
+      internalID: 123625273078815060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 223
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7e74f75a01575a0800000000000000
+      internalID: -6524290182185228350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d9f65851283ff0800000000000000
+      internalID: -56258332042078093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be222817b99adce90800000000000000
+      internalID: -7003755360401874197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92309e5d5a47cb050800000000000000
+      internalID: 5817653074263081769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e61b10441e90840800000000000000
+      internalID: 5190927727723638384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0387e1d7778359b60800000000000000
+      internalID: 7752164419439589424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e2d4734a45b8c0800000000000000
+      internalID: -3984196641756093234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1baad40dc9d2110800000000000000
+      internalID: 1237817891066917329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab91b0d72fe9190c0800000000000000
+      internalID: -4570697382487189062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0c9db94a88a16e0800000000000000
+      internalID: -1866028855020896004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8971b1afe0f5d0f90800000000000000
+      internalID: -6985822929051510888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a467712d401bc0800000000000000
+      internalID: -3814464078250465627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b1730ac08da2b0800000000000000
+      internalID: -5571655558857903850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 95
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e18a8da4da27890800000000000000
+      internalID: -7461711095625408893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 384
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e761f64892a0fc40800000000000000
+      internalID: 5544109916202035174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f765f8b9f7e2840800000000000000
+      internalID: 5201234925760970556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269f1b5d195a0f7b0800000000000000
+      internalID: -5192468324584130206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50058a657a42096a0800000000000000
+      internalID: -6444610765635170299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 384
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0686008b53ebec710800000000000000
+      internalID: 1715517646004316256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Button_01a_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4879faa332ba1d8a0800000000000000
+      internalID: -6282051837408340092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Metal_Button_01a_0: -1613740597734349015
+      Spritesheet_Animation_UI_Metal_Button_01a_1: -5100422969163595573
+      Spritesheet_Animation_UI_Metal_Button_01a_10: 5817653074263081769
+      Spritesheet_Animation_UI_Metal_Button_01a_11: 5190927727723638384
+      Spritesheet_Animation_UI_Metal_Button_01a_12: 7752164419439589424
+      Spritesheet_Animation_UI_Metal_Button_01a_13: -3984196641756093234
+      Spritesheet_Animation_UI_Metal_Button_01a_14: 1237817891066917329
+      Spritesheet_Animation_UI_Metal_Button_01a_15: -4570697382487189062
+      Spritesheet_Animation_UI_Metal_Button_01a_16: -1866028855020896004
+      Spritesheet_Animation_UI_Metal_Button_01a_17: -6985822929051510888
+      Spritesheet_Animation_UI_Metal_Button_01a_18: -3814464078250465627
+      Spritesheet_Animation_UI_Metal_Button_01a_19: -5571655558857903850
+      Spritesheet_Animation_UI_Metal_Button_01a_2: 3055227205628882469
+      Spritesheet_Animation_UI_Metal_Button_01a_20: -7461711095625408893
+      Spritesheet_Animation_UI_Metal_Button_01a_21: 5544109916202035174
+      Spritesheet_Animation_UI_Metal_Button_01a_22: 5201234925760970556
+      Spritesheet_Animation_UI_Metal_Button_01a_23: -5192468324584130206
+      Spritesheet_Animation_UI_Metal_Button_01a_24: -6444610765635170299
+      Spritesheet_Animation_UI_Metal_Button_01a_25: 1715517646004316256
+      Spritesheet_Animation_UI_Metal_Button_01a_26: -6282051837408340092
+      Spritesheet_Animation_UI_Metal_Button_01a_3: -7260945995505419972
+      Spritesheet_Animation_UI_Metal_Button_01a_4: 4793534409261708503
+      Spritesheet_Animation_UI_Metal_Button_01a_5: 2012713850298007684
+      Spritesheet_Animation_UI_Metal_Button_01a_6: 123625273078815060
+      Spritesheet_Animation_UI_Metal_Button_01a_7: -6524290182185228350
+      Spritesheet_Animation_UI_Metal_Button_01a_8: -56258332042078093
+      Spritesheet_Animation_UI_Metal_Button_01a_9: -7003755360401874197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

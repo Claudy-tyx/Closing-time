@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: c4191c1c3ec234fa5884f22c1c2c8030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5764791476574014323
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_0
+  - first:
+      213: -2413683560618598109
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_1
+  - first:
+      213: 8680612581230761482
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_2
+  - first:
+      213: 6920291031543703480
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_3
+  - first:
+      213: -4367260988431199934
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_4
+  - first:
+      213: 8098568807665945147
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_5
+  - first:
+      213: 4999801501464123643
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_6
+  - first:
+      213: 3021666234954136409
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_7
+  - first:
+      213: 7998769986806010108
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_8
+  - first:
+      213: 2511099804095406664
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_9
+  - first:
+      213: -2253244883063398921
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_10
+  - first:
+      213: 4552392506258522173
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_11
+  - first:
+      213: 6065738070960537163
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_12
+  - first:
+      213: -8704422953193018112
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc4650e47a00050800000000000000
+      internalID: 5764791476574014323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e021079fd08ed0800000000000000
+      internalID: -2413683560618598109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06db09962bb77870800000000000000
+      internalID: 8680612581230761482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7eb752700d90060800000000000000
+      internalID: 6920291031543703480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241132f054f5463c0800000000000000
+      internalID: -4367260988431199934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3accf92c65e36070800000000000000
+      internalID: 8098568807665945147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8db3ab9fcd26540800000000000000
+      internalID: 4999801501464123643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbb346e6d1fe920800000000000000
+      internalID: 3021666234954136409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0d0a77ce6510f60800000000000000
+      internalID: 7998769986806010108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842e8aaa7f739d220800000000000000
+      internalID: 2511099804095406664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1a0197bddab0e0800000000000000
+      internalID: -2253244883063398921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3080b56dd85d2f30800000000000000
+      internalID: 4552392506258522173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7a2c43a4dd2450800000000000000
+      internalID: 6065738070960537163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Arzo_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6c2c217da33780800000000000000
+      internalID: -8704422953193018112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_0: 5764791476574014323
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_1: -2413683560618598109
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_10: -2253244883063398921
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_11: 4552392506258522173
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_12: 6065738070960537163
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_13: -8704422953193018112
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_2: 8680612581230761482
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_3: 6920291031543703480
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_4: -4367260988431199934
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_5: 8098568807665945147
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_6: 4999801501464123643
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_7: 3021666234954136409
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_8: 7998769986806010108
+      Spritesheet_Animation_UI_Pumpkin_Head_Arzo_9: 2511099804095406664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

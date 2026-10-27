@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 0
+    path: Assets/Scenes/Old/PubInterior.unity
+    guid: 45f917ebbc6fe403089973ad7e6267d4
+  - enabled: 0
+    path: Assets/Scenes/Old/City.unity
+    guid: 28d419ed618884cab9afeaf6f734c25f
+  - enabled: 0
+    path: Assets/Scenes/Old/ShopInterior.unity
+    guid: 773abeaccece94d309e7b29ad1037407
+  - enabled: 0
+    path: Assets/Scenes/Old/CafeInterior.unity
+    guid: d60fea1ea55ee4627b8beb4243e5034d
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: d2f9bcb24e79348979997e7ce6f7e113
+  - enabled: 1
+    path: Assets/Scenes/Pub.unity
+    guid: 6d47b3e2ab09d4a5d8f7aeac0de9cbe1
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: f39f970393c5c4e9388221d8cdd298bf
+  - enabled: 1
+    path: Assets/Scenes/NewCity.unity
+    guid: 9732efae4ab574a03b14b2dcb2d139ec
+  - enabled: 1
+    path: Assets/Scenes/Cafe.unity
+    guid: 1ff9490bbdb1e47eca43f04e64c90442
+  - enabled: 1
+    path: Assets/Scenes/House1.unity
+    guid: 67c285828c62c4fb696be68af6a46b0e
+  - enabled: 1
+    path: Assets/Scenes/House2.unity
+    guid: ced8726ed600b4d72acc481c36b776ec
+  - enabled: 1
+    path: Assets/Scenes/House3.unity
+    guid: f564963f56ee249619dc5f3d310d9f94
+  - enabled: 1
+    path: Assets/Scenes/House4.unity
+    guid: 4d3e5ec7bd2d14612a7bc58990ae8fb6
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 91285258965ad49558f12e30250a98d7
+  - enabled: 1
+    path: Assets/Scenes/Shop2.unity
+    guid: d7019c95e7c8c47eaaff71183093aec2
+  - enabled: 1
+    path: Assets/Scenes/Supermarket.unity
+    guid: e9431d92904994c16aba730648b88719
+  - enabled: 1
+    path: Assets/Scenes/Hotel Lobby.unity
+    guid: 195329514c704496b9a33302f5db6aaa
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

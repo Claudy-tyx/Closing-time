@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 13d56978bff84415fa49b5ee30a55da9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4435033343086370728
+    second: cityWalk_0
+  - first:
+      213: 9122011252946161878
+    second: cityWalk_1
+  - first:
+      213: -7528259747326530601
+    second: cityWalk_2
+  - first:
+      213: -260093014004647801
+    second: cityWalk_3
+  - first:
+      213: 5360823014897744684
+    second: cityWalk_4
+  - first:
+      213: 25671032559589785
+    second: cityWalk_5
+  - first:
+      213: 6604333736727472277
+    second: cityWalk_6
+  - first:
+      213: -4706663247226935290
+    second: cityWalk_7
+  - first:
+      213: 8245123138983074500
+    second: cityWalk_8
+  - first:
+      213: 8228397262062671221
+    second: cityWalk_9
+  - first:
+      213: 1355621652813655650
+    second: cityWalk_10
+  - first:
+      213: -6142839047401582119
+    second: cityWalk_11
+  - first:
+      213: -7796947508236012396
+    second: cityWalk_12
+  - first:
+      213: -4179985760514795993
+    second: cityWalk_13
+  - first:
+      213: -1464632374104875553
+    second: cityWalk_14
+  - first:
+      213: 9113561077920869713
+    second: cityWalk_15
+  - first:
+      213: 1344240317766607344
+    second: cityWalk_16
+  - first:
+      213: -8537957099181680884
+    second: cityWalk_17
+  - first:
+      213: -7584534599092752046
+    second: cityWalk_18
+  - first:
+      213: 3688084147347854584
+    second: cityWalk_19
+  - first:
+      213: 6864076024945252405
+    second: cityWalk_20
+  - first:
+      213: -6241228006537331956
+    second: cityWalk_21
+  - first:
+      213: -2375999919232509987
+    second: cityWalk_22
+  - first:
+      213: -3754102136484685053
+    second: cityWalk_23
+  - first:
+      213: -4599001865009499931
+    second: cityWalk_24
+  - first:
+      213: 281917937506568038
+    second: cityWalk_25
+  - first:
+      213: 2924400308598647783
+    second: cityWalk_26
+  - first:
+      213: -4299338569377489859
+    second: cityWalk_27
+  - first:
+      213: -688724299309502231
+    second: cityWalk_28
+  - first:
+      213: -7986730670945024105
+    second: cityWalk_29
+  - first:
+      213: -1869185682023438839
+    second: cityWalk_30
+  - first:
+      213: -2711115676713567669
+    second: cityWalk_31
+  - first:
+      213: -3859283526317774262
+    second: cityWalk_32
+  - first:
+      213: -692832723560115922
+    second: cityWalk_33
+  - first:
+      213: 4035430619325658323
+    second: cityWalk_34
+  - first:
+      213: -3571234724728527837
+    second: cityWalk_35
+  - first:
+      213: 1788808101932413932
+    second: cityWalk_36
+  - first:
+      213: -3165334208623993781
+    second: cityWalk_37
+  - first:
+      213: 8779589396418255547
+    second: cityWalk_38
+  - first:
+      213: -3958117157926983920
+    second: cityWalk_39
+  - first:
+      213: -3334519997807861269
+    second: cityWalk_40
+  - first:
+      213: 5665156009242737500
+    second: cityWalk_41
+  - first:
+      213: 1560859341278000655
+    second: cityWalk_42
+  - first:
+      213: -8726567820349012063
+    second: cityWalk_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cityWalk_0
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1423
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1da5e3576c8d30800000000000000
+      internalID: 4435033343086370728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_1
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1423
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d8f077e4e79e70800000000000000
+      internalID: 9122011252946161878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_2
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1423
+        width: 274
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbeabf65af368790800000000000000
+      internalID: -7528259747326530601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_3
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1423
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78831b328c6f36cf0800000000000000
+      internalID: -260093014004647801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_4
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1423
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bf7b21128756a40800000000000000
+      internalID: 5360823014897744684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_5
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1423
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9995bb80ba33b5000800000000000000
+      internalID: 25671032559589785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_6
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1423
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e4c3da8e47ab50800000000000000
+      internalID: 6604333736727472277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_7
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 1423
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e6afa6b29eaeb0800000000000000
+      internalID: -4706663247226935290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1183
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca90747fcf8c6270800000000000000
+      internalID: 8245123138983074500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1183
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575da04c6b3213270800000000000000
+      internalID: 8228397262062671221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_10
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1183
+        width: 578
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e29c9f5b220d210800000000000000
+      internalID: 1355621652813655650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_11
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1183
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1da3bbe6040caa0800000000000000
+      internalID: -6142839047401582119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_12
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1183
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494b93f1d8dabc390800000000000000
+      internalID: -7796947508236012396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1183
+        width: 546
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726135ae815bdf5c0800000000000000
+      internalID: -4179985760514795993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 943
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd11fe9d949cabe0800000000000000
+      internalID: -1464632374104875553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_15
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 943
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dac40c38fd97e70800000000000000
+      internalID: 9113561077920869713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_16
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 943
+        width: 274
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1ac396273b7a210800000000000000
+      internalID: 1344240317766607344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_17
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 943
+        width: 210
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0750cb1145138980800000000000000
+      internalID: -8537957099181680884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_18
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 943
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251ba6a77f15eb690800000000000000
+      internalID: -7584534599092752046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_19
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 943
+        width: 210
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f41b60edf4be2330800000000000000
+      internalID: 3688084147347854584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_20
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 943
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538132af6c8124f50800000000000000
+      internalID: 6864076024945252405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_21
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 943
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b7f1c0234b269a0800000000000000
+      internalID: -6241228006537331956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_22
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 703
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd71acb79a0c60fd0800000000000000
+      internalID: -2375999919232509987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_23
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 703
+        width: 146
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b9b483fffb6ebc0800000000000000
+      internalID: -3754102136484685053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_24
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 703
+        width: 258
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ffba9b201d20c0800000000000000
+      internalID: -4599001865009499931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_25
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 703
+        width: 530
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c3e8ded299e300800000000000000
+      internalID: 281917937506568038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_26
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 703
+        width: 210
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba017269e859820800000000000000
+      internalID: 2924400308598647783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_27
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 703
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5e1b995ea554c0800000000000000
+      internalID: -4299338569377489859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_28
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 703
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e03a7716e82176f0800000000000000
+      internalID: -688724299309502231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_29
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 463
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ca9135ce692190800000000000000
+      internalID: -7986730670945024105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_30
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 463
+        width: 514
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062fbb86815f06e0800000000000000
+      internalID: -1869185682023438839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_31
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 463
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4abe78f7ae206ad0800000000000000
+      internalID: -2711115676713567669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_32
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 463
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aef468412117ac0800000000000000
+      internalID: -3859283526317774262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_33
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 463
+        width: 546
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21de670f409266f0800000000000000
+      internalID: -692832723560115922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_34
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 463
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4f3a484cab00830800000000000000
+      internalID: 4035430619325658323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_35
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 223
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324240760fc607ec0800000000000000
+      internalID: -3571234724728527837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_36
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 223
+        width: 146
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b50fbd7f13d810800000000000000
+      internalID: 1788808101932413932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_37
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 223
+        width: 258
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1393de497214d0800000000000000
+      internalID: -3165334208623993781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_38
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 223
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbadb4f2a0e57d970800000000000000
+      internalID: 8779589396418255547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_39
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 223
+        width: 210
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01722667a61f119c0800000000000000
+      internalID: -3958117157926983920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_40
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 223
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e932aab769b1d0800000000000000
+      internalID: -3334519997807861269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_41
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 223
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b3518006dae9e40800000000000000
+      internalID: 5665156009242737500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_42
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 223
+        width: 226
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06b9351d4949a510800000000000000
+      internalID: 1560859341278000655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cityWalk_43
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 2306
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a70ebf7dc005e680800000000000000
+      internalID: -8726567820349012063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cityWalk_0: 4435033343086370728
+      cityWalk_1: 9122011252946161878
+      cityWalk_10: 1355621652813655650
+      cityWalk_11: -6142839047401582119
+      cityWalk_12: -7796947508236012396
+      cityWalk_13: -4179985760514795993
+      cityWalk_14: -1464632374104875553
+      cityWalk_15: 9113561077920869713
+      cityWalk_16: 1344240317766607344
+      cityWalk_17: -8537957099181680884
+      cityWalk_18: -7584534599092752046
+      cityWalk_19: 3688084147347854584
+      cityWalk_2: -7528259747326530601
+      cityWalk_20: 6864076024945252405
+      cityWalk_21: -6241228006537331956
+      cityWalk_22: -2375999919232509987
+      cityWalk_23: -3754102136484685053
+      cityWalk_24: -4599001865009499931
+      cityWalk_25: 281917937506568038
+      cityWalk_26: 2924400308598647783
+      cityWalk_27: -4299338569377489859
+      cityWalk_28: -688724299309502231
+      cityWalk_29: -7986730670945024105
+      cityWalk_3: -260093014004647801
+      cityWalk_30: -1869185682023438839
+      cityWalk_31: -2711115676713567669
+      cityWalk_32: -3859283526317774262
+      cityWalk_33: -692832723560115922
+      cityWalk_34: 4035430619325658323
+      cityWalk_35: -3571234724728527837
+      cityWalk_36: 1788808101932413932
+      cityWalk_37: -3165334208623993781
+      cityWalk_38: 8779589396418255547
+      cityWalk_39: -3958117157926983920
+      cityWalk_4: 5360823014897744684
+      cityWalk_40: -3334519997807861269
+      cityWalk_41: 5665156009242737500
+      cityWalk_42: 1560859341278000655
+      cityWalk_43: -8726567820349012063
+      cityWalk_5: 25671032559589785
+      cityWalk_6: 6604333736727472277
+      cityWalk_7: -4706663247226935290
+      cityWalk_8: 8245123138983074500
+      cityWalk_9: 8228397262062671221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

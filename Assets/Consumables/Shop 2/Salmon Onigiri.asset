@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c88a60e94b72496c9ecd5855b23a6c1, type: 3}
+  m_Name: Salmon Onigiri
+  m_EditorClassIdentifier: Assembly-CSharp::ConsumableItem
+  itemName: Salmon Onigiri
+  itemIcon: {fileID: 21300000, guid: 9c537ea8872db4e7891753d1af305bbf, type: 3}
+  description: A fluffy rice triangle with a savoury salmon surprise tucked inside. A little taste of the sea, wrapped with love!
+  heartsRestored: 1
+  consciousnessRestored: 0
+  staminaRestored: 0

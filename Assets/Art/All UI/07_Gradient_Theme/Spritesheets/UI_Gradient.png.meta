@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 7d32963a291014ea789b4569d760df45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8580013403213359735
+    second: UI_Gradient_0
+  - first:
+      213: -7805078870855971391
+    second: UI_Gradient_1
+  - first:
+      213: 1946561511565106310
+    second: UI_Gradient_2
+  - first:
+      213: -2175667992856616793
+    second: UI_Gradient_3
+  - first:
+      213: -1654575690615854643
+    second: UI_Gradient_4
+  - first:
+      213: 1573518444075687884
+    second: UI_Gradient_5
+  - first:
+      213: -1120142394729579450
+    second: UI_Gradient_6
+  - first:
+      213: -3132918950767516094
+    second: UI_Gradient_7
+  - first:
+      213: -2094527760811919494
+    second: UI_Gradient_8
+  - first:
+      213: -6811501471124512277
+    second: UI_Gradient_9
+  - first:
+      213: 2127890316212971241
+    second: UI_Gradient_10
+  - first:
+      213: -4401927676068399773
+    second: UI_Gradient_11
+  - first:
+      213: -3773453979766935998
+    second: UI_Gradient_12
+  - first:
+      213: -8511433335058506962
+    second: UI_Gradient_13
+  - first:
+      213: 1541913454575823483
+    second: UI_Gradient_14
+  - first:
+      213: 7504291896501839358
+    second: UI_Gradient_15
+  - first:
+      213: 6944128021976178270
+    second: UI_Gradient_16
+  - first:
+      213: -1144883829905870152
+    second: UI_Gradient_17
+  - first:
+      213: -4681226625994288388
+    second: UI_Gradient_18
+  - first:
+      213: -8110841966864235134
+    second: UI_Gradient_19
+  - first:
+      213: -9049258759278825166
+    second: UI_Gradient_20
+  - first:
+      213: -438526130775401504
+    second: UI_Gradient_21
+  - first:
+      213: 8656669100084877772
+    second: UI_Gradient_22
+  - first:
+      213: -5458568584104760747
+    second: UI_Gradient_23
+  - first:
+      213: -6830436870790234429
+    second: UI_Gradient_24
+  - first:
+      213: -3926769101161406676
+    second: UI_Gradient_25
+  - first:
+      213: 2922602311964874001
+    second: UI_Gradient_26
+  - first:
+      213: -3481955196730381688
+    second: UI_Gradient_27
+  - first:
+      213: 2589721004031795612
+    second: UI_Gradient_28
+  - first:
+      213: 5844608494483299004
+    second: UI_Gradient_29
+  - first:
+      213: -1528108655268177745
+    second: UI_Gradient_30
+  - first:
+      213: 3783714496026098076
+    second: UI_Gradient_31
+  - first:
+      213: 2197628009082353367
+    second: UI_Gradient_32
+  - first:
+      213: 645004425660841959
+    second: UI_Gradient_33
+  - first:
+      213: -6919013993666122508
+    second: UI_Gradient_34
+  - first:
+      213: 1350740892475274166
+    second: UI_Gradient_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Gradient_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9859065c44bade880800000000000000
+      internalID: -8580013403213359735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd09babe1acea390800000000000000
+      internalID: -7805078870855971391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 291
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c1946a163930b10800000000000000
+      internalID: 1946561511565106310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 290
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02898dc797ec1e0800000000000000
+      internalID: -2175667992856616793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 288
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc968dafc24c909e0800000000000000
+      internalID: -1654575690615854643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf18a220b246d510800000000000000
+      internalID: 1573518444075687884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb9404d647470f0800000000000000
+      internalID: -1120142394729579450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 233
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a96d20d2a584d0800000000000000
+      internalID: -3132918950767516094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 236
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777c9c491ebee2e0800000000000000
+      internalID: -2094527760811919494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 229
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a29a308fa871a0800000000000000
+      internalID: -6811501471124512277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 236
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e62ed2f7f8c78d10800000000000000
+      internalID: 2127890316212971241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3657bfcd91639e2c0800000000000000
+      internalID: -4401927676068399773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e25b7199ff1abc0800000000000000
+      internalID: -3773453979766935998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5b6e2a7051e980800000000000000
+      internalID: -8511433335058506962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 181
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a23661e1af56510800000000000000
+      internalID: 1541913454575823483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a5dd68b9942860800000000000000
+      internalID: 7504291896501839358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 166
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed9b8f4af7e5060800000000000000
+      internalID: 6944128021976178270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 167
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23f59f83e8c10f0800000000000000
+      internalID: -1144883829905870152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 169
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf292849f21f80fb0800000000000000
+      internalID: -4681226625994288388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 172
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2850ab74430807f80800000000000000
+      internalID: -8110841966864235134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 172
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231f79c7a139a6280800000000000000
+      internalID: -9049258759278825166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebd766beca0ae9f0800000000000000
+      internalID: -438526130775401504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d8a87eaaa22870800000000000000
+      internalID: 8656669100084877772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a24522bc44f34b0800000000000000
+      internalID: -5458568584104760747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 136
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce31dfead96531a0800000000000000
+      internalID: -6830436870790234429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 137
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5b42be405189c0800000000000000
+      internalID: -3926769101161406676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 137
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115d660715b2f8820800000000000000
+      internalID: 2922602311964874001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 139
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a6f0f523c9dafc0800000000000000
+      internalID: -3481955196730381688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91eea0488980f320800000000000000
+      internalID: 2589721004031795612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba58eca5783c1150800000000000000
+      internalID: 5844608494483299004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85a8836411bcae0800000000000000
+      internalID: -1528108655268177745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b1238944728430800000000000000
+      internalID: 3783714496026098076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67dcdd70b8f7e10800000000000000
+      internalID: 2197628009082353367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 98
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efb1169b1483f800800000000000000
+      internalID: 645004425660841959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 66
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fce2976e69baff90800000000000000
+      internalID: -6919013993666122508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Gradient_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 34
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b335976fabceb210800000000000000
+      internalID: 1350740892475274166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Gradient_0: -8580013403213359735
+      UI_Gradient_1: -7805078870855971391
+      UI_Gradient_10: 2127890316212971241
+      UI_Gradient_11: -4401927676068399773
+      UI_Gradient_12: -3773453979766935998
+      UI_Gradient_13: -8511433335058506962
+      UI_Gradient_14: 1541913454575823483
+      UI_Gradient_15: 7504291896501839358
+      UI_Gradient_16: 6944128021976178270
+      UI_Gradient_17: -1144883829905870152
+      UI_Gradient_18: -4681226625994288388
+      UI_Gradient_19: -8110841966864235134
+      UI_Gradient_2: 1946561511565106310
+      UI_Gradient_20: -9049258759278825166
+      UI_Gradient_21: -438526130775401504
+      UI_Gradient_22: 8656669100084877772
+      UI_Gradient_23: -5458568584104760747
+      UI_Gradient_24: -6830436870790234429
+      UI_Gradient_25: -3926769101161406676
+      UI_Gradient_26: 2922602311964874001
+      UI_Gradient_27: -3481955196730381688
+      UI_Gradient_28: 2589721004031795612
+      UI_Gradient_29: 5844608494483299004
+      UI_Gradient_3: -2175667992856616793
+      UI_Gradient_30: -1528108655268177745
+      UI_Gradient_31: 3783714496026098076
+      UI_Gradient_32: 2197628009082353367
+      UI_Gradient_33: 645004425660841959
+      UI_Gradient_34: -6919013993666122508
+      UI_Gradient_35: 1350740892475274166
+      UI_Gradient_4: -1654575690615854643
+      UI_Gradient_5: 1573518444075687884
+      UI_Gradient_6: -1120142394729579450
+      UI_Gradient_7: -3132918950767516094
+      UI_Gradient_8: -2094527760811919494
+      UI_Gradient_9: -6811501471124512277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

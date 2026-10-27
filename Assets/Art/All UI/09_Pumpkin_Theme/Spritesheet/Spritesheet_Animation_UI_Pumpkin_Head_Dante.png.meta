@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: d52760b88e2774f1284a88bf33988978
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3161258642600133919
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_0
+  - first:
+      213: 2493895011623901256
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_1
+  - first:
+      213: 3279854207623028199
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_2
+  - first:
+      213: -574814433865638779
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_3
+  - first:
+      213: -3029810262038013733
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_4
+  - first:
+      213: -5785596803196616066
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_5
+  - first:
+      213: -4150000640745894248
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_6
+  - first:
+      213: 1360469513316495971
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_7
+  - first:
+      213: 8670977862692130038
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_8
+  - first:
+      213: 6743617944510297990
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_9
+  - first:
+      213: 1064769673717866005
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_10
+  - first:
+      213: 1935214783672016477
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_11
+  - first:
+      213: -4787958731156686561
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_12
+  - first:
+      213: -8719027585322409762
+    second: Spritesheet_Animation_UI_Pumpkin_Head_Dante_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7fac7304f024d0800000000000000
+      internalID: -3161258642600133919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84816f2cc481c9220800000000000000
+      internalID: 2493895011623901256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd0704602648d20800000000000000
+      internalID: 3279854207623028199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cdba16159d508f0800000000000000
+      internalID: -574814433865638779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8146a8e93f3f5d0800000000000000
+      internalID: -3029810262038013733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7284d36c5e65bfa0800000000000000
+      internalID: -5785596803196616066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e82b6a76c3866c0800000000000000
+      internalID: -4150000640745894248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3627af470db51e210800000000000000
+      internalID: 1360469513316495971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4a01ec60855870800000000000000
+      internalID: 8670977862692130038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877c739ac4269d50800000000000000
+      internalID: 6743617944510297990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51edf897062d6ce00800000000000000
+      internalID: 1064769673717866005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5edad0b7934bda10800000000000000
+      internalID: 1935214783672016477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19fc26d6e0cd8db0800000000000000
+      internalID: -4787958731156686561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Pumpkin_Head_Dante_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a6064b9acff680800000000000000
+      internalID: -8719027585322409762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_0: -3161258642600133919
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_1: 2493895011623901256
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_10: 1064769673717866005
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_11: 1935214783672016477
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_12: -4787958731156686561
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_13: -8719027585322409762
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_2: 3279854207623028199
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_3: -574814433865638779
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_4: -3029810262038013733
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_5: -5785596803196616066
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_6: -4150000640745894248
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_7: 1360469513316495971
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_8: 8670977862692130038
+      Spritesheet_Animation_UI_Pumpkin_Head_Dante_9: 6743617944510297990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

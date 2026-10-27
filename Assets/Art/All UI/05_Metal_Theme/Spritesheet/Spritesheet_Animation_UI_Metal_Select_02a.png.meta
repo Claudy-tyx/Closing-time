@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: ee9f912c2440f461ca032350d08da8ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4455947735585870023
+    second: Spritesheet_Animation_UI_Metal_Select_02a_0
+  - first:
+      213: -2491222574767198540
+    second: Spritesheet_Animation_UI_Metal_Select_02a_1
+  - first:
+      213: 7648216537817330731
+    second: Spritesheet_Animation_UI_Metal_Select_02a_2
+  - first:
+      213: -5448342255826508818
+    second: Spritesheet_Animation_UI_Metal_Select_02a_3
+  - first:
+      213: 6776435819754343919
+    second: Spritesheet_Animation_UI_Metal_Select_02a_4
+  - first:
+      213: -2132380221608813946
+    second: Spritesheet_Animation_UI_Metal_Select_02a_5
+  - first:
+      213: -6025403583545330741
+    second: Spritesheet_Animation_UI_Metal_Select_02a_6
+  - first:
+      213: -2727744278512173784
+    second: Spritesheet_Animation_UI_Metal_Select_02a_7
+  - first:
+      213: 1947205793899202327
+    second: Spritesheet_Animation_UI_Metal_Select_02a_8
+  - first:
+      213: -1304957446635669016
+    second: Spritesheet_Animation_UI_Metal_Select_02a_9
+  - first:
+      213: 7518611245689561837
+    second: Spritesheet_Animation_UI_Metal_Select_02a_10
+  - first:
+      213: 2212348972147116971
+    second: Spritesheet_Animation_UI_Metal_Select_02a_11
+  - first:
+      213: 7243612538519038385
+    second: Spritesheet_Animation_UI_Metal_Select_02a_12
+  - first:
+      213: 5067219711072022049
+    second: Spritesheet_Animation_UI_Metal_Select_02a_13
+  - first:
+      213: -3734398451303565937
+    second: Spritesheet_Animation_UI_Metal_Select_02a_14
+  - first:
+      213: -5543842014671032621
+    second: Spritesheet_Animation_UI_Metal_Select_02a_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c05d4d5bd4b6dd30800000000000000
+      internalID: 4455947735585870023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be219e64466d6dd0800000000000000
+      internalID: -2491222574767198540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24bedd4b6ce32a60800000000000000
+      internalID: 7648216537817330731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3e5bab5999364b0800000000000000
+      internalID: -5448342255826508818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 19
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedc0b7997cba0e50800000000000000
+      internalID: 6776435819754343919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a10fc7c734862e0800000000000000
+      internalID: -2132380221608813946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc33a6e5d57716ca0800000000000000
+      internalID: -6025403583545330741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7d29e70b152ad0800000000000000
+      internalID: -2727744278512173784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717c1f15a5dd50b10800000000000000
+      internalID: 1947205793899202327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b742cd1cd3ede0800000000000000
+      internalID: -1304957446635669016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de26597b719775860800000000000000
+      internalID: 7518611245689561837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab870c2ba7d3be10800000000000000
+      internalID: 2212348972147116971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b92ef8b93b768460800000000000000
+      internalID: 7243612538519038385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2e4dda71625640800000000000000
+      internalID: 5067219711072022049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85384ce460cc2cc0800000000000000
+      internalID: -3734398451303565937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Metal_Select_02a_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dea5a86f015013b0800000000000000
+      internalID: -5543842014671032621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Metal_Select_02a_0: 4455947735585870023
+      Spritesheet_Animation_UI_Metal_Select_02a_1: -2491222574767198540
+      Spritesheet_Animation_UI_Metal_Select_02a_10: 7518611245689561837
+      Spritesheet_Animation_UI_Metal_Select_02a_11: 2212348972147116971
+      Spritesheet_Animation_UI_Metal_Select_02a_12: 7243612538519038385
+      Spritesheet_Animation_UI_Metal_Select_02a_13: 5067219711072022049
+      Spritesheet_Animation_UI_Metal_Select_02a_14: -3734398451303565937
+      Spritesheet_Animation_UI_Metal_Select_02a_15: -5543842014671032621
+      Spritesheet_Animation_UI_Metal_Select_02a_2: 7648216537817330731
+      Spritesheet_Animation_UI_Metal_Select_02a_3: -5448342255826508818
+      Spritesheet_Animation_UI_Metal_Select_02a_4: 6776435819754343919
+      Spritesheet_Animation_UI_Metal_Select_02a_5: -2132380221608813946
+      Spritesheet_Animation_UI_Metal_Select_02a_6: -6025403583545330741
+      Spritesheet_Animation_UI_Metal_Select_02a_7: -2727744278512173784
+      Spritesheet_Animation_UI_Metal_Select_02a_8: 1947205793899202327
+      Spritesheet_Animation_UI_Metal_Select_02a_9: -1304957446635669016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 8d92af5aed19749fcb06ac483d9d3c97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3081964634802568763
+    second: Spritesheet_UI_Gradient_Button_0
+  - first:
+      213: -388608600485327258
+    second: Spritesheet_UI_Gradient_Button_1
+  - first:
+      213: 189916247444333552
+    second: Spritesheet_UI_Gradient_Button_2
+  - first:
+      213: -8889261229072626386
+    second: Spritesheet_UI_Gradient_Button_3
+  - first:
+      213: 4801129904374076353
+    second: Spritesheet_UI_Gradient_Button_4
+  - first:
+      213: 2594810343851616294
+    second: Spritesheet_UI_Gradient_Button_5
+  - first:
+      213: -4466494703698604598
+    second: Spritesheet_UI_Gradient_Button_6
+  - first:
+      213: -8322114433471754822
+    second: Spritesheet_UI_Gradient_Button_7
+  - first:
+      213: -7416867178394695503
+    second: Spritesheet_UI_Gradient_Button_8
+  - first:
+      213: -5284958077440317015
+    second: Spritesheet_UI_Gradient_Button_9
+  - first:
+      213: 5794107170069952977
+    second: Spritesheet_UI_Gradient_Button_10
+  - first:
+      213: 6364623211145102072
+    second: Spritesheet_UI_Gradient_Button_11
+  - first:
+      213: 7661055601399172727
+    second: Spritesheet_UI_Gradient_Button_12
+  - first:
+      213: 8680994064939505250
+    second: Spritesheet_UI_Gradient_Button_13
+  - first:
+      213: 1383415038234877881
+    second: Spritesheet_UI_Gradient_Button_14
+  - first:
+      213: -5423503545983453898
+    second: Spritesheet_UI_Gradient_Button_15
+  - first:
+      213: 6971447754189239513
+    second: Spritesheet_UI_Gradient_Button_16
+  - first:
+      213: 8492302262538372383
+    second: Spritesheet_UI_Gradient_Button_17
+  - first:
+      213: -6582981930958775313
+    second: Spritesheet_UI_Gradient_Button_18
+  - first:
+      213: -8730284562528560681
+    second: Spritesheet_UI_Gradient_Button_19
+  - first:
+      213: -7029418432928517090
+    second: Spritesheet_UI_Gradient_Button_20
+  - first:
+      213: 1778932560270106061
+    second: Spritesheet_UI_Gradient_Button_21
+  - first:
+      213: -774325931032150905
+    second: Spritesheet_UI_Gradient_Button_22
+  - first:
+      213: -2520228373735322963
+    second: Spritesheet_UI_Gradient_Button_23
+  - first:
+      213: -6552481389948354218
+    second: Spritesheet_UI_Gradient_Button_24
+  - first:
+      213: -1646129349691086903
+    second: Spritesheet_UI_Gradient_Button_25
+  - first:
+      213: 400475302911246590
+    second: Spritesheet_UI_Gradient_Button_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1c64c5e79aa35d0800000000000000
+      internalID: -3081964634802568763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 258
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e096b69826b9af0800000000000000
+      internalID: -388608600485327258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 258
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3aef122d7b2a200800000000000000
+      internalID: 189916247444333552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 258
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d497d620003a480800000000000000
+      internalID: -8889261229072626386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3d8b6e53a01a240800000000000000
+      internalID: 4801129904374076353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 226
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e8c4824e920420800000000000000
+      internalID: 2594810343851616294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 226
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd81e24bb2d302c0800000000000000
+      internalID: -4466494703698604598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 226
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdc3c4e309e18c80800000000000000
+      internalID: -8322114433471754822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 194
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c785f89ef11990800000000000000
+      internalID: -7416867178394695503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a65521ae08a6b0800000000000000
+      internalID: -5284958077440317015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 194
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9309ec5cdc86050800000000000000
+      internalID: 5794107170069952977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 194
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2828dd61fa35850800000000000000
+      internalID: 6364623211145102072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e0aedba79815a60800000000000000
+      internalID: 7661055601399172727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 162
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665ef1bb16197870800000000000000
+      internalID: 8680994064939505250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 162
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5ceac5a0e23310800000000000000
+      internalID: 1383415038234877881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635b5978248dbb4b0800000000000000
+      internalID: -5423503545983453898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f4aecbce8fb060800000000000000
+      internalID: 6971447754189239513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 130
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1588d3e9e7bad570800000000000000
+      internalID: 8492302262538372383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb136adfcc84a4a0800000000000000
+      internalID: -6582981930958775313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 130
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d99866027cc7d680800000000000000
+      internalID: -8730284562528560681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1476bfbd2d727e90800000000000000
+      internalID: -7029418432928517090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 98
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd96460db900b810800000000000000
+      internalID: 1778932560270106061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 98
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c74741baa0145f0800000000000000
+      internalID: -774325931032150905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 98
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa45a695a9560dd0800000000000000
+      internalID: -2520228373735322963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65145c274e8e015a0800000000000000
+      internalID: -6552481389948354218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76159f316c729e0800000000000000
+      internalID: -1646129349691086903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Gradient_Button_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0875b8a26ce8500800000000000000
+      internalID: 400475302911246590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_UI_Gradient_Button_0: -3081964634802568763
+      Spritesheet_UI_Gradient_Button_1: -388608600485327258
+      Spritesheet_UI_Gradient_Button_10: 5794107170069952977
+      Spritesheet_UI_Gradient_Button_11: 6364623211145102072
+      Spritesheet_UI_Gradient_Button_12: 7661055601399172727
+      Spritesheet_UI_Gradient_Button_13: 8680994064939505250
+      Spritesheet_UI_Gradient_Button_14: 1383415038234877881
+      Spritesheet_UI_Gradient_Button_15: -5423503545983453898
+      Spritesheet_UI_Gradient_Button_16: 6971447754189239513
+      Spritesheet_UI_Gradient_Button_17: 8492302262538372383
+      Spritesheet_UI_Gradient_Button_18: -6582981930958775313
+      Spritesheet_UI_Gradient_Button_19: -8730284562528560681
+      Spritesheet_UI_Gradient_Button_2: 189916247444333552
+      Spritesheet_UI_Gradient_Button_20: -7029418432928517090
+      Spritesheet_UI_Gradient_Button_21: 1778932560270106061
+      Spritesheet_UI_Gradient_Button_22: -774325931032150905
+      Spritesheet_UI_Gradient_Button_23: -2520228373735322963
+      Spritesheet_UI_Gradient_Button_24: -6552481389948354218
+      Spritesheet_UI_Gradient_Button_25: -1646129349691086903
+      Spritesheet_UI_Gradient_Button_26: 400475302911246590
+      Spritesheet_UI_Gradient_Button_3: -8889261229072626386
+      Spritesheet_UI_Gradient_Button_4: 4801129904374076353
+      Spritesheet_UI_Gradient_Button_5: 2594810343851616294
+      Spritesheet_UI_Gradient_Button_6: -4466494703698604598
+      Spritesheet_UI_Gradient_Button_7: -8322114433471754822
+      Spritesheet_UI_Gradient_Button_8: -7416867178394695503
+      Spritesheet_UI_Gradient_Button_9: -5284958077440317015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

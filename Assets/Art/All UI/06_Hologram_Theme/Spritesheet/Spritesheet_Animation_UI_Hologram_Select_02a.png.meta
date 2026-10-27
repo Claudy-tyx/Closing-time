@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: a63556740c2634e699e5dec20f2c274f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4462669950251036637
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_0
+  - first:
+      213: 3561814518893606272
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_1
+  - first:
+      213: -1874047077012644411
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_2
+  - first:
+      213: 3873477314310871524
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_3
+  - first:
+      213: -1619832931268198199
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_4
+  - first:
+      213: -6928172462096630021
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_5
+  - first:
+      213: 4014967102345910609
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_6
+  - first:
+      213: 1134323971672686739
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_7
+  - first:
+      213: -6553556459276470719
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_8
+  - first:
+      213: -4491238266314627129
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_9
+  - first:
+      213: -694561946484120116
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_10
+  - first:
+      213: -5077072524020455100
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_11
+  - first:
+      213: 3548191177053630944
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_12
+  - first:
+      213: 5188153160091893867
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_13
+  - first:
+      213: -3050118384493679510
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_14
+  - first:
+      213: 829994165186698900
+    second: Spritesheet_Animation_UI_Hologram_Select_02a_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3201a7113596112c0800000000000000
+      internalID: -4462669950251036637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0857b720f6b1e6130800000000000000
+      internalID: 3561814518893606272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5d42dc1c0ef5e0800000000000000
+      internalID: -1874047077012644411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e99805481b51c530800000000000000
+      internalID: 3873477314310871524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0874008823589e0800000000000000
+      internalID: -1619832931268198199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe361e4adf2adf90800000000000000
+      internalID: -6928172462096630021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591530be4708b730800000000000000
+      internalID: 4014967102345910609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c2cf64adedbf00800000000000000
+      internalID: 1134323971672686739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146fb5d5f171d05a0800000000000000
+      internalID: -6553556459276470719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7eca6a79aeba1c0800000000000000
+      internalID: -4491238266314627129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56f41f69b6c56f0800000000000000
+      internalID: -694561946484120116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4496dda507d9a89b0800000000000000
+      internalID: -5077072524020455100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f47f8315bd3130800000000000000
+      internalID: 3548191177053630944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600993afc5000840800000000000000
+      internalID: 5188153160091893867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cad515d7dcba5d0800000000000000
+      internalID: -3050118384493679510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Animation_UI_Hologram_Select_02a_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e9995bb4bb48b00800000000000000
+      internalID: 829994165186698900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_Animation_UI_Hologram_Select_02a_0: -4462669950251036637
+      Spritesheet_Animation_UI_Hologram_Select_02a_1: 3561814518893606272
+      Spritesheet_Animation_UI_Hologram_Select_02a_10: -694561946484120116
+      Spritesheet_Animation_UI_Hologram_Select_02a_11: -5077072524020455100
+      Spritesheet_Animation_UI_Hologram_Select_02a_12: 3548191177053630944
+      Spritesheet_Animation_UI_Hologram_Select_02a_13: 5188153160091893867
+      Spritesheet_Animation_UI_Hologram_Select_02a_14: -3050118384493679510
+      Spritesheet_Animation_UI_Hologram_Select_02a_15: 829994165186698900
+      Spritesheet_Animation_UI_Hologram_Select_02a_2: -1874047077012644411
+      Spritesheet_Animation_UI_Hologram_Select_02a_3: 3873477314310871524
+      Spritesheet_Animation_UI_Hologram_Select_02a_4: -1619832931268198199
+      Spritesheet_Animation_UI_Hologram_Select_02a_5: -6928172462096630021
+      Spritesheet_Animation_UI_Hologram_Select_02a_6: 4014967102345910609
+      Spritesheet_Animation_UI_Hologram_Select_02a_7: 1134323971672686739
+      Spritesheet_Animation_UI_Hologram_Select_02a_8: -6553556459276470719
+      Spritesheet_Animation_UI_Hologram_Select_02a_9: -4491238266314627129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

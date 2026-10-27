@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 2b28deb4b99444baa8b98559ef1328c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7078429198254676612
+    second: Spritesheet_UI_Paper_Animation_Button_02_0
+  - first:
+      213: 2275187350778069746
+    second: Spritesheet_UI_Paper_Animation_Button_02_1
+  - first:
+      213: 2004127484834122010
+    second: Spritesheet_UI_Paper_Animation_Button_02_2
+  - first:
+      213: 5309917293635391155
+    second: Spritesheet_UI_Paper_Animation_Button_02_3
+  - first:
+      213: 2557362843103641925
+    second: Spritesheet_UI_Paper_Animation_Button_02_4
+  - first:
+      213: 3301268423646845590
+    second: Spritesheet_UI_Paper_Animation_Button_02_5
+  - first:
+      213: -4450462047865479876
+    second: Spritesheet_UI_Paper_Animation_Button_02_6
+  - first:
+      213: -9022580841437275213
+    second: Spritesheet_UI_Paper_Animation_Button_02_7
+  - first:
+      213: -938044035253459439
+    second: Spritesheet_UI_Paper_Animation_Button_02_8
+  - first:
+      213: 1216828578316473988
+    second: Spritesheet_UI_Paper_Animation_Button_02_9
+  - first:
+      213: 2867026983316287287
+    second: Spritesheet_UI_Paper_Animation_Button_02_10
+  - first:
+      213: 6190120305906455418
+    second: Spritesheet_UI_Paper_Animation_Button_02_11
+  - first:
+      213: -2250668686348112828
+    second: Spritesheet_UI_Paper_Animation_Button_02_12
+  - first:
+      213: -1104779338032278240
+    second: Spritesheet_UI_Paper_Animation_Button_02_13
+  - first:
+      213: -8408017110758251103
+    second: Spritesheet_UI_Paper_Animation_Button_02_14
+  - first:
+      213: 350461387542372400
+    second: Spritesheet_UI_Paper_Animation_Button_02_15
+  - first:
+      213: 8801367431970810032
+    second: Spritesheet_UI_Paper_Animation_Button_02_16
+  - first:
+      213: 1414480565278287169
+    second: Spritesheet_UI_Paper_Animation_Button_02_17
+  - first:
+      213: -1562363993187323692
+    second: Spritesheet_UI_Paper_Animation_Button_02_18
+  - first:
+      213: 4556084267551201368
+    second: Spritesheet_UI_Paper_Animation_Button_02_19
+  - first:
+      213: -1463157138526606523
+    second: Spritesheet_UI_Paper_Animation_Button_02_20
+  - first:
+      213: -7116158170241459282
+    second: Spritesheet_UI_Paper_Animation_Button_02_21
+  - first:
+      213: -4500154643951066983
+    second: Spritesheet_UI_Paper_Animation_Button_02_22
+  - first:
+      213: 8568301743412146602
+    second: Spritesheet_UI_Paper_Animation_Button_02_23
+  - first:
+      213: -5144840862851371647
+    second: Spritesheet_UI_Paper_Animation_Button_02_24
+  - first:
+      213: -6926268635442086156
+    second: Spritesheet_UI_Paper_Animation_Button_02_25
+  - first:
+      213: 6859176147406273423
+    second: Spritesheet_UI_Paper_Animation_Button_02_26
+  - first:
+      213: -5863091298773018024
+    second: Spritesheet_UI_Paper_Animation_Button_02_27
+  - first:
+      213: -4884463619323128061
+    second: Spritesheet_UI_Paper_Animation_Button_02_28
+  - first:
+      213: -3171694458700693185
+    second: Spritesheet_UI_Paper_Animation_Button_02_29
+  - first:
+      213: 3689518817220926245
+    second: Spritesheet_UI_Paper_Animation_Button_02_30
+  - first:
+      213: 5783815573413520496
+    second: Spritesheet_UI_Paper_Animation_Button_02_31
+  - first:
+      213: 4250283170227495061
+    second: Spritesheet_UI_Paper_Animation_Button_02_32
+  - first:
+      213: 2030583162188818943
+    second: Spritesheet_UI_Paper_Animation_Button_02_33
+  - first:
+      213: -455679187286792274
+    second: Spritesheet_UI_Paper_Animation_Button_02_34
+  - first:
+      213: 8611854669321642730
+    second: Spritesheet_UI_Paper_Animation_Button_02_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a19b94ad1ab3260800000000000000
+      internalID: 7078429198254676612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 259
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c69057d6139f10800000000000000
+      internalID: 2275187350778069746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 259
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a198222445710db10800000000000000
+      internalID: 2004127484834122010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 259
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be47d935ad90b940800000000000000
+      internalID: 5309917293635391155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541c9f0d4f39d7320800000000000000
+      internalID: 2557362843103641925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a1fa3f32670dd20800000000000000
+      internalID: 3301268423646845590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dde96d858cc32c0800000000000000
+      internalID: -4450462047865479876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd2e4478a59c280800000000000000
+      internalID: -9022580841437275213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1162b0f7be56bf2f0800000000000000
+      internalID: -938044035253459439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486d81b152b03e010800000000000000
+      internalID: 1216828578316473988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fe606e9d9b9c720800000000000000
+      internalID: 2867026983316287287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a739c7e1f99b7e550800000000000000
+      internalID: 6190120305906455418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c202b11c404c0e0800000000000000
+      internalID: -2250668686348112828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 163
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0251561ab090ba0f0800000000000000
+      internalID: -1104779338032278240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 163
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a529df3cf8b05b80800000000000000
+      internalID: -8408017110758251103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 163
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03024ff66c61dd400800000000000000
+      internalID: 350461387542372400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8ef483c0db42a70800000000000000
+      internalID: 8801367431970810032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 131
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452b13749e31a310800000000000000
+      internalID: 1414480565278287169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 131
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d07538d93e515ae0800000000000000
+      internalID: -1562363993187323692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 131
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858922e80867a3f30800000000000000
+      internalID: 4556084267551201368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 99
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b6b8ba552d1bbe0800000000000000
+      internalID: -1463157138526606523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 99
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9341e8d35e3d90800000000000000
+      internalID: -7116158170241459282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 99
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e8f4b13d3c81c0800000000000000
+      internalID: -4500154643951066983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 99
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f070f909b8e670800000000000000
+      internalID: 8568301743412146602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d64d76e7ad998b0800000000000000
+      internalID: -5144840862851371647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7b8d7f53f0ef90800000000000000
+      internalID: -6926268635442086156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bbbf55d50b03f50800000000000000
+      internalID: 6859176147406273423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 67
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a53fa178d12aea0800000000000000
+      internalID: -5863091298773018024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3071deb9736e63cb0800000000000000
+      internalID: -4884463619323128061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310215b1b0ebf3d0800000000000000
+      internalID: -3171694458700693185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b929cf0ddc33330800000000000000
+      internalID: 3689518817220926245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 35
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746fabbe9d344050800000000000000
+      internalID: 5783815573413520496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902b3c360a0cfa30800000000000000
+      internalID: 4250283170227495061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff96725a0a41e2c10800000000000000
+      internalID: 2030583162188818943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea76b36813a1da9f0800000000000000
+      internalID: -455679187286792274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_UI_Paper_Animation_Button_02_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2a436b134738770800000000000000
+      internalID: 8611854669321642730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spritesheet_UI_Paper_Animation_Button_02_0: 7078429198254676612
+      Spritesheet_UI_Paper_Animation_Button_02_1: 2275187350778069746
+      Spritesheet_UI_Paper_Animation_Button_02_10: 2867026983316287287
+      Spritesheet_UI_Paper_Animation_Button_02_11: 6190120305906455418
+      Spritesheet_UI_Paper_Animation_Button_02_12: -2250668686348112828
+      Spritesheet_UI_Paper_Animation_Button_02_13: -1104779338032278240
+      Spritesheet_UI_Paper_Animation_Button_02_14: -8408017110758251103
+      Spritesheet_UI_Paper_Animation_Button_02_15: 350461387542372400
+      Spritesheet_UI_Paper_Animation_Button_02_16: 8801367431970810032
+      Spritesheet_UI_Paper_Animation_Button_02_17: 1414480565278287169
+      Spritesheet_UI_Paper_Animation_Button_02_18: -1562363993187323692
+      Spritesheet_UI_Paper_Animation_Button_02_19: 4556084267551201368
+      Spritesheet_UI_Paper_Animation_Button_02_2: 2004127484834122010
+      Spritesheet_UI_Paper_Animation_Button_02_20: -1463157138526606523
+      Spritesheet_UI_Paper_Animation_Button_02_21: -7116158170241459282
+      Spritesheet_UI_Paper_Animation_Button_02_22: -4500154643951066983
+      Spritesheet_UI_Paper_Animation_Button_02_23: 8568301743412146602
+      Spritesheet_UI_Paper_Animation_Button_02_24: -5144840862851371647
+      Spritesheet_UI_Paper_Animation_Button_02_25: -6926268635442086156
+      Spritesheet_UI_Paper_Animation_Button_02_26: 6859176147406273423
+      Spritesheet_UI_Paper_Animation_Button_02_27: -5863091298773018024
+      Spritesheet_UI_Paper_Animation_Button_02_28: -4884463619323128061
+      Spritesheet_UI_Paper_Animation_Button_02_29: -3171694458700693185
+      Spritesheet_UI_Paper_Animation_Button_02_3: 5309917293635391155
+      Spritesheet_UI_Paper_Animation_Button_02_30: 3689518817220926245
+      Spritesheet_UI_Paper_Animation_Button_02_31: 5783815573413520496
+      Spritesheet_UI_Paper_Animation_Button_02_32: 4250283170227495061
+      Spritesheet_UI_Paper_Animation_Button_02_33: 2030583162188818943
+      Spritesheet_UI_Paper_Animation_Button_02_34: -455679187286792274
+      Spritesheet_UI_Paper_Animation_Button_02_35: 8611854669321642730
+      Spritesheet_UI_Paper_Animation_Button_02_4: 2557362843103641925
+      Spritesheet_UI_Paper_Animation_Button_02_5: 3301268423646845590
+      Spritesheet_UI_Paper_Animation_Button_02_6: -4450462047865479876
+      Spritesheet_UI_Paper_Animation_Button_02_7: -9022580841437275213
+      Spritesheet_UI_Paper_Animation_Button_02_8: -938044035253459439
+      Spritesheet_UI_Paper_Animation_Button_02_9: 1216828578316473988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

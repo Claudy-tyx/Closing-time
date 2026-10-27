@@ -1,0 +1,1926 @@
+fileFormatVersion: 2
+guid: 5520cc379c5a249e38e754617458e18c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2428875095705322976
+    second: UI_Metal_0
+  - first:
+      213: -7967010599572328476
+    second: UI_Metal_1
+  - first:
+      213: 5135973902795300571
+    second: UI_Metal_2
+  - first:
+      213: -4873761087212321059
+    second: UI_Metal_3
+  - first:
+      213: 4798771761165785392
+    second: UI_Metal_4
+  - first:
+      213: 4827399754802150278
+    second: UI_Metal_5
+  - first:
+      213: 5905815157382411656
+    second: UI_Metal_6
+  - first:
+      213: -7934077188595459184
+    second: UI_Metal_7
+  - first:
+      213: 8761178856186403469
+    second: UI_Metal_8
+  - first:
+      213: -5363622831492674449
+    second: UI_Metal_9
+  - first:
+      213: 102906600551877698
+    second: UI_Metal_10
+  - first:
+      213: -1814047602501995954
+    second: UI_Metal_11
+  - first:
+      213: -7926776133850000527
+    second: UI_Metal_12
+  - first:
+      213: 3855414768308297690
+    second: UI_Metal_13
+  - first:
+      213: 5481867746657444416
+    second: UI_Metal_14
+  - first:
+      213: 6616915534130069618
+    second: UI_Metal_15
+  - first:
+      213: -1043880008576486127
+    second: UI_Metal_16
+  - first:
+      213: -1974706383564257731
+    second: UI_Metal_17
+  - first:
+      213: -3256285366012073843
+    second: UI_Metal_18
+  - first:
+      213: -8629859457523178062
+    second: UI_Metal_19
+  - first:
+      213: 9130460381762456713
+    second: UI_Metal_20
+  - first:
+      213: -6435719695461618860
+    second: UI_Metal_21
+  - first:
+      213: -9177143499100615222
+    second: UI_Metal_22
+  - first:
+      213: -5740407321153747236
+    second: UI_Metal_23
+  - first:
+      213: 3103531552144396487
+    second: UI_Metal_24
+  - first:
+      213: -8022846630987502457
+    second: UI_Metal_25
+  - first:
+      213: 3465640129520656834
+    second: UI_Metal_26
+  - first:
+      213: 738210136608045560
+    second: UI_Metal_27
+  - first:
+      213: 8085138527969504311
+    second: UI_Metal_28
+  - first:
+      213: 3705270068918494858
+    second: UI_Metal_29
+  - first:
+      213: 4072601831069416412
+    second: UI_Metal_30
+  - first:
+      213: 2788346917321328191
+    second: UI_Metal_31
+  - first:
+      213: -5088100975512890263
+    second: UI_Metal_32
+  - first:
+      213: 406617782787191098
+    second: UI_Metal_33
+  - first:
+      213: 889331649460099110
+    second: UI_Metal_34
+  - first:
+      213: 7225570315686251873
+    second: UI_Metal_35
+  - first:
+      213: 3676079388377712375
+    second: UI_Metal_36
+  - first:
+      213: -247312591077322874
+    second: UI_Metal_37
+  - first:
+      213: -2916696117531550976
+    second: UI_Metal_38
+  - first:
+      213: 8543801081744573068
+    second: UI_Metal_39
+  - first:
+      213: 7497813695705050797
+    second: UI_Metal_40
+  - first:
+      213: -6445711991632329754
+    second: UI_Metal_41
+  - first:
+      213: -1638735902034741877
+    second: UI_Metal_42
+  - first:
+      213: -6576821555641701697
+    second: UI_Metal_43
+  - first:
+      213: -9179512626047370396
+    second: UI_Metal_44
+  - first:
+      213: 7703692557075668812
+    second: UI_Metal_45
+  - first:
+      213: -677207442360732262
+    second: UI_Metal_46
+  - first:
+      213: 1650858724907689167
+    second: UI_Metal_47
+  - first:
+      213: 2387326691787347718
+    second: UI_Metal_48
+  - first:
+      213: -8712923814042216449
+    second: UI_Metal_49
+  - first:
+      213: -981147188156177834
+    second: UI_Metal_50
+  - first:
+      213: 4847301003953165491
+    second: UI_Metal_51
+  - first:
+      213: -38176900621019335
+    second: UI_Metal_52
+  - first:
+      213: 1815260253750995500
+    second: UI_Metal_53
+  - first:
+      213: -8485007415836935340
+    second: UI_Metal_54
+  - first:
+      213: 2503585273028737254
+    second: UI_Metal_55
+  - first:
+      213: 7299228127124786005
+    second: UI_Metal_56
+  - first:
+      213: -7261739526269346278
+    second: UI_Metal_57
+  - first:
+      213: 2794447889337796502
+    second: UI_Metal_58
+  - first:
+      213: 966467569596447221
+    second: UI_Metal_59
+  - first:
+      213: -9041631794832714243
+    second: UI_Metal_60
+  - first:
+      213: -7146108820319982780
+    second: UI_Metal_61
+  - first:
+      213: 432161637173605551
+    second: UI_Metal_62
+  - first:
+      213: 4635717555418054283
+    second: UI_Metal_63
+  - first:
+      213: 4423940989189395503
+    second: UI_Metal_64
+  - first:
+      213: -4927821567162287186
+    second: UI_Metal_65
+  - first:
+      213: 843101352614780910
+    second: UI_Metal_66
+  - first:
+      213: -1514322721668066878
+    second: UI_Metal_67
+  - first:
+      213: -3292723443412034602
+    second: UI_Metal_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Metal_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02af0bc18f6ea4ed0800000000000000
+      internalID: -2428875095705322976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef28ba121e7f6190800000000000000
+      internalID: -7967010599572328476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5ac39d05a64740800000000000000
+      internalID: 5135973902795300571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 223
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6869c0d1cec5cb0800000000000000
+      internalID: -4873761087212321059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 289
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0395676ed79a89240800000000000000
+      internalID: 4798771761165785392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 294
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b3ac5108e5ef240800000000000000
+      internalID: 4827399754802150278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_6
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 297
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88575e4689ba5f150800000000000000
+      internalID: 5905815157382411656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 299
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bdc3165de74e190800000000000000
+      internalID: -7934077188595459184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 287
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a57a040c5f59970800000000000000
+      internalID: 8761178856186403469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 257
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c44b3d3759095b0800000000000000
+      internalID: -5363622831492674449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 262
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c00fa02099d6100800000000000000
+      internalID: 102906600551877698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 266
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e423837115533d6e0800000000000000
+      internalID: -1814047602501995954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17393d7aa1f6ef190800000000000000
+      internalID: -7926776133850000527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 225
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9fce0e4f218530800000000000000
+      internalID: 3855414768308297690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 228
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0422031eba1831c40800000000000000
+      internalID: 5481867746657444416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 230
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2704690de9104db50800000000000000
+      internalID: 6616915534130069618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 233
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115baa4b9a46381f0800000000000000
+      internalID: -1043880008576486127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 223
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36c4ffa10f6894e0800000000000000
+      internalID: -1974706383564257731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882c8f46b95fc2d0800000000000000
+      internalID: -3256285366012073843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b529ccdb849c3880800000000000000
+      internalID: -8629859457523178062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c8aba8759e5be70800000000000000
+      internalID: 9130460381762456713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b660ee80bbfa6a0800000000000000
+      internalID: -6435719695461618860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 169
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd82533c9c34a080800000000000000
+      internalID: -9177143499100615222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6449494f9f550b0800000000000000
+      internalID: -5740407321153747236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 170
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c098c2e085f11b20800000000000000
+      internalID: 3103531552144396487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 167
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cec88fe7f19a090800000000000000
+      internalID: -8022846630987502457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 167
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ea67065d681030800000000000000
+      internalID: 3465640129520656834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_27
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 168
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f97d124536ae3a00800000000000000
+      internalID: 738210136608045560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 159
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c627f77ae243070800000000000000
+      internalID: 8085138527969504311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 137
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8626ce0f73cb6330800000000000000
+      internalID: 3705270068918494858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 137
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7f7ca9c9c48830800000000000000
+      internalID: 4072601831069416412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 138
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f364e7d7fb232b620800000000000000
+      internalID: 2788346917321328191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 138
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645c35ee1f6369b0800000000000000
+      internalID: -5088100975512890263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 140
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31336618b894a500800000000000000
+      internalID: 406617782787191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_34
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 139
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d49d5c6a875c00800000000000000
+      internalID: 889331649460099110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d061e5be1664460800000000000000
+      internalID: 7225570315686251873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6836e1abe040330800000000000000
+      internalID: 3676079388377712375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fca5c328e519cf0800000000000000
+      internalID: -247312591077322874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b55cc9550d587d0800000000000000
+      internalID: -2916696117531550976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 108
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82cbfc11dda19670800000000000000
+      internalID: 8543801081744573068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 109
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeee84c4d59d0860800000000000000
+      internalID: 7497813695705050797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 109
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3874e281b3c86a0800000000000000
+      internalID: -6445711991632329754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 102
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b853a86216a0249e0800000000000000
+      internalID: -1638735902034741877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_43
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 108
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba28d004af6ab4a0800000000000000
+      internalID: -6576821555641701697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_44
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 108
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bbb39d6e1db9080800000000000000
+      internalID: -9179512626047370396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 95
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd053909309ea60800000000000000
+      internalID: 7703692557075668812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9576de4b631a96f0800000000000000
+      internalID: -677207442360732262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42a70834709e610800000000000000
+      internalID: 1650858724907689167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 76
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071bc24afc712120800000000000000
+      internalID: 2387326691787347718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 77
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d8f444f9751780800000000000000
+      internalID: -8712923814042216449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 77
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652e399a4d34262f0800000000000000
+      internalID: -981147188156177834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 70
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d50cb492154340800000000000000
+      internalID: 4847301003953165491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 75
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937dbd7af4e587ff0800000000000000
+      internalID: -38176900621019335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_53
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 75
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aa6b74599113910800000000000000
+      internalID: 1815260253750995500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bfb76f5b23f3a80800000000000000
+      internalID: -8485007415836935340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f6cf8a858eb220800000000000000
+      internalID: 2503585273028737254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_56
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b00d30f411c4560800000000000000
+      internalID: 7299228127124786005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e5d4d006e193b90800000000000000
+      internalID: -7261739526269346278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_58
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 53
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c15bbc8fd7c620800000000000000
+      internalID: 2794447889337796502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_59
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 53
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f93bbc4225996d00800000000000000
+      internalID: 966467569596447221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df55e1789cba58280800000000000000
+      internalID: -9041631794832714243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44baa8eb3ebe3dc90800000000000000
+      internalID: -7146108820319982780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_62
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4b84528b85ff500800000000000000
+      internalID: 432161637173605551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_63
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3cb93e80655040800000000000000
+      internalID: 4635717555418054283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_64
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 31
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f249ceff3eef46d30800000000000000
+      internalID: 4423940989189395503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_65
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab78c4b46cdc9bb0800000000000000
+      internalID: -4927821567162287186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_66
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5148963c43bb00800000000000000
+      internalID: 843101352614780910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_67
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c11ca3028b0cfae0800000000000000
+      internalID: -1514322721668066878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Metal_68
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db13db4975ed42d0800000000000000
+      internalID: -3292723443412034602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Metal_0: -2428875095705322976
+      UI_Metal_1: -7967010599572328476
+      UI_Metal_10: 102906600551877698
+      UI_Metal_11: -1814047602501995954
+      UI_Metal_12: -7926776133850000527
+      UI_Metal_13: 3855414768308297690
+      UI_Metal_14: 5481867746657444416
+      UI_Metal_15: 6616915534130069618
+      UI_Metal_16: -1043880008576486127
+      UI_Metal_17: -1974706383564257731
+      UI_Metal_18: -3256285366012073843
+      UI_Metal_19: -8629859457523178062
+      UI_Metal_2: 5135973902795300571
+      UI_Metal_20: 9130460381762456713
+      UI_Metal_21: -6435719695461618860
+      UI_Metal_22: -9177143499100615222
+      UI_Metal_23: -5740407321153747236
+      UI_Metal_24: 3103531552144396487
+      UI_Metal_25: -8022846630987502457
+      UI_Metal_26: 3465640129520656834
+      UI_Metal_27: 738210136608045560
+      UI_Metal_28: 8085138527969504311
+      UI_Metal_29: 3705270068918494858
+      UI_Metal_3: -4873761087212321059
+      UI_Metal_30: 4072601831069416412
+      UI_Metal_31: 2788346917321328191
+      UI_Metal_32: -5088100975512890263
+      UI_Metal_33: 406617782787191098
+      UI_Metal_34: 889331649460099110
+      UI_Metal_35: 7225570315686251873
+      UI_Metal_36: 3676079388377712375
+      UI_Metal_37: -247312591077322874
+      UI_Metal_38: -2916696117531550976
+      UI_Metal_39: 8543801081744573068
+      UI_Metal_4: 4798771761165785392
+      UI_Metal_40: 7497813695705050797
+      UI_Metal_41: -6445711991632329754
+      UI_Metal_42: -1638735902034741877
+      UI_Metal_43: -6576821555641701697
+      UI_Metal_44: -9179512626047370396
+      UI_Metal_45: 7703692557075668812
+      UI_Metal_46: -677207442360732262
+      UI_Metal_47: 1650858724907689167
+      UI_Metal_48: 2387326691787347718
+      UI_Metal_49: -8712923814042216449
+      UI_Metal_5: 4827399754802150278
+      UI_Metal_50: -981147188156177834
+      UI_Metal_51: 4847301003953165491
+      UI_Metal_52: -38176900621019335
+      UI_Metal_53: 1815260253750995500
+      UI_Metal_54: -8485007415836935340
+      UI_Metal_55: 2503585273028737254
+      UI_Metal_56: 7299228127124786005
+      UI_Metal_57: -7261739526269346278
+      UI_Metal_58: 2794447889337796502
+      UI_Metal_59: 966467569596447221
+      UI_Metal_6: 5905815157382411656
+      UI_Metal_60: -9041631794832714243
+      UI_Metal_61: -7146108820319982780
+      UI_Metal_62: 432161637173605551
+      UI_Metal_63: 4635717555418054283
+      UI_Metal_64: 4423940989189395503
+      UI_Metal_65: -4927821567162287186
+      UI_Metal_66: 843101352614780910
+      UI_Metal_67: -1514322721668066878
+      UI_Metal_68: -3292723443412034602
+      UI_Metal_7: -7934077188595459184
+      UI_Metal_8: 8761178856186403469
+      UI_Metal_9: -5363622831492674449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
