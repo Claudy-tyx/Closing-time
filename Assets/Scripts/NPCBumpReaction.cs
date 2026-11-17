@@ -71,10 +71,15 @@ public class NPCBumpReaction : MonoBehaviour
         if (speechBubble != null)
             speechBubble.Show("Ouch!");
 
-        if (RunManager.Instance != null &&
-            RunManager.Instance.Data != null)
+        PlayerHealth playerHealth =
+            other.GetComponentInParent<PlayerHealth>();
+
+        if (playerHealth != null)
         {
-            RunManager.Instance.Data.ChangeHearts(-heartDamage);
+            playerHealth.TakeDamage(
+                heartDamage,
+                DamageCause.Pedestrian
+            );
         }
 
         bumpRoutine = StartCoroutine(

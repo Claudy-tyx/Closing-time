@@ -56,6 +56,27 @@ public class PlayerController : MonoBehaviour
         playerSFX = GetComponent<PlayerSFX>();
     }
 
+    private bool movementLocked;
+
+    public bool IsMovementLocked => movementLocked;
+
+    public void SetMovementLocked(bool locked)
+    {
+        movementLocked = locked;
+
+        if (locked)
+        {
+            movement = Vector2.zero;
+            sprintHeld = false;
+            if (movementLocked)
+                return;
+            IsSprinting = false;
+
+            if (rb != null)
+                rb.linearVelocity = Vector2.zero;
+        }
+    }
+
     private void OnEnable()
     {
         if (rb != null)
@@ -147,6 +168,16 @@ public class PlayerController : MonoBehaviour
     {
         if (runData == null && RunManager.Instance != null)
             runData = RunManager.Instance.Data;
+        if (movementLocked)
+        {
+            movement = Vector2.zero;
+            sprintHeld = false;
+            IsSprinting = false;
+
+            rb.linearVelocity = Vector2.zero;
+            previousPosition = rb.position;
+            return;
+        }
 
         bool runActive = IsRunActive();
 

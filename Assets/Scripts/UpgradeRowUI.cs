@@ -22,6 +22,7 @@ public class UpgradeRowUI : MonoBehaviour
     [SerializeField] private Sprite[] levelSprites = new Sprite[5];
 
     private RunData data;
+    public bool IsConsciousnessRow => isConsciousness;
 
     private void Awake()
     {

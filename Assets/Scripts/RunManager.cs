@@ -1,5 +1,6 @@
 
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class RunManager : MonoBehaviour
 {
@@ -10,38 +11,44 @@ public class RunManager : MonoBehaviour
     public RunData Data => runData;
 
     public bool IsRunActive { get; private set; }
+
     public int LastRunTrashCoins { get; private set; }
     public int LastRunTrashBonus { get; private set; }
     public int LastRunTrashTotal { get; private set; }
 
-    [Header("Playthrough Statistics")]
-    [SerializeField] private int totalRunsStarted;
-    [SerializeField] private int totalCoinsCollected;
+    // Compatibility properties for existing scripts.
 
-    private float playthroughStartTime;
-    private float accumulatedPlaythroughTime;
-    private bool playthroughStarted;
-    private bool playthroughFinished;
+    public int TotalRunsStarted =>
+        runData != null ? runData.TotalRunsStarted : 0;
 
-    public int TotalRunsStarted => totalRunsStarted;
-    public int TotalCoinsCollected => totalCoinsCollected;
+    public int TotalFailedRuns =>
+        runData != null ? runData.TotalFailedRuns : 0;
+
+    public int TotalCoinsCollected =>
+        runData != null ? runData.TotalCoinsCollected : 0;
 
     public float TotalDistanceWalked =>
         runData != null ? runData.DistanceWalked : 0f;
 
-    public float TotalPlaythroughTime
-    {
-        get
-        {
-            if (!playthroughStarted)
-                return 0f;
+    public float TotalPlaythroughTime =>
+        runData != null ? runData.TotalPlaythroughTime : 0f;
 
-            if (playthroughFinished)
-                return accumulatedPlaythroughTime;
+    public bool FirstUpgradeTutorialCompleted =>
+        runData != null && runData.FirstUpgradeTutorialCompleted;
 
-            return Time.realtimeSinceStartup - playthroughStartTime;
-        }
-    }
+    public bool ThirdFailureRewardClaimed =>
+        runData != null && runData.ThirdFailureRewardClaimed;
+
+    public bool FifthFailureRewardClaimed =>
+        runData != null && runData.FifthFailureRewardClaimed;
+
+    public bool PubMapUnlocked =>
+        runData != null && runData.PubMapUnlocked;
+
+    public DamageCause LastDamageCause =>
+        runData != null
+            ? runData.LastDamageCause
+            : DamageCause.Unknown;
 
     private void Awake()
     {
@@ -58,14 +65,32 @@ public class RunManager : MonoBehaviour
             Debug.LogError("RunManager: RunData is not assigned!");
     }
 
+    private void LateUpdate()
+    {
+        if (UnityEngine.SceneManagement.SceneManager.GetActiveScene().name != "NewCity")
+            return;
+
+        if (Time.frameCount % 120 != 0)
+            return;
+
+        Debug.Log(
+            $"[RUN DEBUG] " +
+            $"Active={IsRunActive}, " +
+            $"Scene={UnityEngine.SceneManagement.SceneManager.GetActiveScene().name}, " +
+            $"Hearts={runData?.CurrentHearts}, " +
+            $"Consciousness={runData?.CurrentConsciousness}, " +
+            $"TimerPaused={RunConsciousnessTimer.IsPaused}"
+        );
+    }
+
     public void BeginNewRun()
     {
         if (runData == null || IsRunActive)
             return;
 
-        BeginPlaythrough();
-
-        totalRunsStarted++;
+        runData.BeginPlaythrough();
+        runData.ClearDamageCause();
+        runData.RecordRunStarted();
 
         runData.StartNewRun();
 
@@ -87,7 +112,6 @@ public class RunManager : MonoBehaviour
 
         LastRunTrashCoins = runData.PendingTrashCoins;
 
-        // Luck level 0-4 = 0%, 25%, 50%, 75%, 100%.
         int luckLevel =
             runData.GetDistanceLevel(DistanceUpgrade.Luck);
 
@@ -97,10 +121,8 @@ public class RunManager : MonoBehaviour
             LastRunTrashCoins * bonusMultiplier
         );
 
-        // Converts the original trash value.
         int converted = runData.ConvertTrashToCoins();
 
-        // Adds the Luck bonus separately.
         if (LastRunTrashBonus > 0)
             runData.AddCoins(LastRunTrashBonus);
 
@@ -114,44 +136,62 @@ public class RunManager : MonoBehaviour
         );
     }
 
+    public void RecordFailedRun()
+    {
+        if (!IsRunActive || runData == null)
+            return;
+
+        runData.RecordFailedRun();
+    }
+
+    public void RecordDamageCause(DamageCause cause)
+    {
+        runData?.RecordDamageCause(cause);
+    }
+
     public void RecordCoinsCollected(int amount)
     {
-        if (amount <= 0 || !playthroughStarted || playthroughFinished)
-            return;
-
-        totalCoinsCollected += amount;
-    }
-
-    public void FinishPlaythrough()
-    {
-        if (!playthroughStarted || playthroughFinished)
-            return;
-
-        accumulatedPlaythroughTime =
-            Time.realtimeSinceStartup - playthroughStartTime;
-
-        playthroughFinished = true;
-    }
-
-    public void ResetPlaythroughStatistics()
-    {
-        totalRunsStarted = 0;
-        totalCoinsCollected = 0;
-
-        playthroughStartTime = 0f;
-        accumulatedPlaythroughTime = 0f;
-
-        playthroughStarted = false;
-        playthroughFinished = false;
+        runData?.RecordCoinsCollected(amount);
     }
 
     public void BeginPlaythrough()
     {
-        if (playthroughStarted)
-            return;
+        runData?.BeginPlaythrough();
+    }
 
-        playthroughStarted = true;
-        playthroughFinished = false;
-        playthroughStartTime = Time.realtimeSinceStartup;
+    public void FinishPlaythrough()
+    {
+        runData?.FinishPlaythrough();
+    }
+
+    public void CompleteFirstUpgradeTutorial()
+    {
+        runData?.CompleteFirstUpgradeTutorial();
+    }
+
+    public void ClaimThirdFailureReward()
+    {
+        runData?.ClaimThirdFailureReward();
+    }
+
+    public void ClaimFifthFailureReward()
+    {
+        runData?.ClaimFifthFailureReward();
+    }
+
+    public void UnlockPubMap()
+    {
+        runData?.UnlockPubMap();
+    }
+
+    public void ResetPlaythroughStatistics()
+    {
+        runData?.ResetPlaythroughStatistics();
+
+        IsRunActive = false;
+
+        LastRunTrashCoins = 0;
+        LastRunTrashBonus = 0;
+        LastRunTrashTotal = 0;
     }
 }

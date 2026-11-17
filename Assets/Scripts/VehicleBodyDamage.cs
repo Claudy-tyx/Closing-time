@@ -44,6 +44,6 @@ public class VehicleBodyDamage : MonoBehaviour
         if (!bodyCollider.IsTouching(other))
             return;
 
-        health.TakeDamage(heartDamage);
+        health.TakeDamage(heartDamage, DamageCause.Car);
     }
 }

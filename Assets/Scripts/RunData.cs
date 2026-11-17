@@ -85,6 +85,29 @@ public class RunData : ScriptableObject
 
     [SerializeField] private int minimapCost = 40;
 
+    [Header("Playthrough Statistics")]
+    [SerializeField] private int totalRunsStarted;
+    [SerializeField] private int totalFailedRuns;
+    [SerializeField] private int totalCoinsCollected;
+
+    [Header("Bartender Milestones")]
+    [SerializeField] private bool firstUpgradeTutorialCompleted;
+    [SerializeField] private bool thirdFailureRewardClaimed;
+    [SerializeField] private bool fifthFailureRewardClaimed;
+    [SerializeField] private bool pubMapUnlocked;
+
+    [Header("Damage Tracking")]
+    [SerializeField] private DamageCause lastDamageCause =
+        DamageCause.Unknown;
+
+    [Header("Playthrough Timing")]
+    [SerializeField] private float accumulatedPlaythroughTime;
+
+    [System.NonSerialized] private float playthroughStartTime;
+    [System.NonSerialized] private bool playthroughStarted;
+    [System.NonSerialized] private bool playthroughFinished;
+        
+
     public event Action OnDataChanged;
 
     // CURRENCIES
@@ -227,6 +250,115 @@ public class RunData : ScriptableObject
         NotifyChanged();
     }
 
+    public int TotalRunsStarted => totalRunsStarted;
+    public int TotalFailedRuns => totalFailedRuns;
+    public int TotalCoinsCollected => totalCoinsCollected;
+
+    public bool FirstUpgradeTutorialCompleted =>
+        firstUpgradeTutorialCompleted;
+
+    public bool ThirdFailureRewardClaimed =>
+        thirdFailureRewardClaimed;
+
+    public bool FifthFailureRewardClaimed =>
+        fifthFailureRewardClaimed;
+
+    public bool PubMapUnlocked => pubMapUnlocked;
+
+    public DamageCause LastDamageCause => lastDamageCause;
+
+    public float TotalPlaythroughTime
+    {
+        get
+        {
+            if (!playthroughStarted)
+                return accumulatedPlaythroughTime;
+
+            if (playthroughFinished)
+                return accumulatedPlaythroughTime;
+
+            return accumulatedPlaythroughTime +
+                (Time.realtimeSinceStartup - playthroughStartTime);
+        }
+    }
+
+    public void BeginPlaythrough()
+    {
+        if (playthroughStarted)
+            return;
+
+        playthroughStarted = true;
+        playthroughFinished = false;
+        playthroughStartTime = Time.realtimeSinceStartup;
+    }
+
+    public void FinishPlaythrough()
+    {
+        if (!playthroughStarted || playthroughFinished)
+            return;
+
+        accumulatedPlaythroughTime +=
+            Time.realtimeSinceStartup - playthroughStartTime;
+
+        playthroughFinished = true;
+    }
+
+    public void RecordRunStarted()
+    {
+        totalRunsStarted++;
+    }
+
+    public void RecordFailedRun()
+    {
+        totalFailedRuns++;
+    }
+
+    public void RecordCoinsCollected(int amount)
+    {
+        if (amount <= 0 || !playthroughStarted || playthroughFinished)
+            return;
+
+        totalCoinsCollected += amount;
+    }
+
+    public void RecordDamageCause(DamageCause cause)
+    {
+        lastDamageCause = cause;
+    }
+
+    public void ClearDamageCause()
+    {
+        lastDamageCause = DamageCause.Unknown;
+    }
+
+    public void CompleteFirstUpgradeTutorial()
+    {
+        firstUpgradeTutorialCompleted = true;
+    }
+
+    public void ClaimThirdFailureReward()
+    {
+        if (thirdFailureRewardClaimed)
+            return;
+
+        thirdFailureRewardClaimed = true;
+        AddCoins(10);
+    }
+
+    public void ClaimFifthFailureReward()
+    {
+        if (fifthFailureRewardClaimed)
+            return;
+
+        fifthFailureRewardClaimed = true;
+        AddCoins(15);
+    }
+
+    public void UnlockPubMap()
+    {
+        pubMapUnlocked = true;
+    }
+
     public bool SpendCoins(int amount)
     {
         if (amount < 0 || coins < amount)
@@ -236,6 +368,26 @@ public class RunData : ScriptableObject
         NotifyChanged();
 
         return true;
+    }
+
+    public void ResetPlaythroughStatistics()
+    {
+        totalRunsStarted = 0;
+        totalFailedRuns = 0;
+        totalCoinsCollected = 0;
+
+        firstUpgradeTutorialCompleted = false;
+        thirdFailureRewardClaimed = false;
+        fifthFailureRewardClaimed = false;
+        pubMapUnlocked = false;
+
+        lastDamageCause = DamageCause.Unknown;
+
+        playthroughStartTime = 0f;
+        accumulatedPlaythroughTime = 0f;
+
+        playthroughStarted = false;
+        playthroughFinished = false;
     }
 
     public void RecordDrinkPurchase()
@@ -501,6 +653,15 @@ public class RunData : ScriptableObject
         NotifyChanged();
     }
 
+    public void GrantDistanceCurrency(int amount)
+    {
+        if (amount <= 0)
+            return;
+
+        distanceAvailable += amount;
+        NotifyChanged();
+    }
+
     public void ChangeHearts(int amount)
     {
         int previousHearts = currentHearts;
@@ -585,7 +746,10 @@ public class RunData : ScriptableObject
         if (collectedTrash != null)
             collectedTrash.Clear();
 
-        RunManager.Instance?.ResetPlaythroughStatistics();
+        if (RunManager.Instance != null)
+            RunManager.Instance.ResetPlaythroughStatistics();
+        else
+            ResetPlaythroughStatistics();
 
         StartNewRun();
     }

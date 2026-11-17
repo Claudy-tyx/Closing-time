@@ -91,6 +91,16 @@ public class RunConsciousnessTimer : MonoBehaviour
 
         if (!IsPaused && runData.CurrentConsciousness > 0f)
         {
+            if (Time.frameCount % 120 == 0)
+            {
+                Debug.Log(
+                    $"[TIMER DEBUG] " +
+                    $"LossPerSecond={consciousnessLossPerSecond}, " +
+                    $"DeltaTime={Time.deltaTime}, " +
+                    $"Consciousness={runData.CurrentConsciousness}"
+                );
+            }
+
             runData.ChangeConsciousness(
                 -consciousnessLossPerSecond * Time.deltaTime
             );

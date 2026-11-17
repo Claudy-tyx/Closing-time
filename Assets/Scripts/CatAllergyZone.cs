@@ -85,7 +85,7 @@ public class CatAllergyZone : MonoBehaviour
             playerSFX.PlaySneeze();
 
         // Apply damage through the existing health system.
-        player.TakeDamage(heartDamage);
+        player.TakeDamage(heartDamage, DamageCause.CatAllergy);
 
         // Display the player's existing speech bubble.
         PlayerSpeechBubble speechBubble =

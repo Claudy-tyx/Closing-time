@@ -173,15 +173,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: -7757850052801254139, guid: 24b0dcb36b615476694534a408ea89ff, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -354,6 +354,7 @@ GameObject:
   - component: {fileID: 937048126}
   - component: {fileID: 937048125}
   - component: {fileID: 937048124}
+  - component: {fileID: 937048127}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -463,6 +464,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 937048122}
   m_CullTransparentMesh: 1
+--- !u!114 &937048127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 937048122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad920752eb40c49678ac290b25a79746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonEffects
+  hoverScale: 1.08
+  animationSpeed: 12
+  clickClip: {fileID: 8300000, guid: 21ebfacb94c5a4a4d8b58ecf76d11802, type: 3}
+  uiSFXMixerGroup: {fileID: -63870775980071874, guid: 183714804690f4719aa7302a9145fba6, type: 2}
+  clickVolume: 1
 --- !u!1 &1255681756
 GameObject:
   m_ObjectHideFlags: 0
@@ -497,8 +515,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 427, y: -2.7813}
-  m_SizeDelta: {x: 1384.3789, y: 1132.0746}
+  m_AnchoredPosition: {x: 687, y: -446}
+  m_SizeDelta: {x: 774.7, y: 395.022}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1255681758
 MonoBehaviour:
@@ -520,7 +538,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: A pretty cover goes here
+  m_text: placeholder
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -547,12 +565,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 300
+  m_fontSize: 149.35
   m_fontSizeBase: 300
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 300
   m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
@@ -1453,6 +1471,7 @@ GameObject:
   - component: {fileID: 2024078682}
   - component: {fileID: 2024078681}
   - component: {fileID: 2024078680}
+  - component: {fileID: 2024078683}
   m_Layer: 5
   m_Name: Button (2)
   m_TagString: Untagged
@@ -1561,6 +1580,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2024078678}
   m_CullTransparentMesh: 1
+--- !u!114 &2024078683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2024078678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad920752eb40c49678ac290b25a79746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonEffects
+  hoverScale: 1.08
+  animationSpeed: 12
+  clickClip: {fileID: 8300000, guid: 21ebfacb94c5a4a4d8b58ecf76d11802, type: 3}
+  uiSFXMixerGroup: {fileID: -63870775980071874, guid: 183714804690f4719aa7302a9145fba6, type: 2}
+  clickVolume: 1
 --- !u!1 &2064887264
 GameObject:
   m_ObjectHideFlags: 0
@@ -1573,6 +1609,7 @@ GameObject:
   - component: {fileID: 2064887268}
   - component: {fileID: 2064887267}
   - component: {fileID: 2064887266}
+  - component: {fileID: 2064887269}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1682,6 +1719,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2064887264}
   m_CullTransparentMesh: 1
+--- !u!114 &2064887269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2064887264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad920752eb40c49678ac290b25a79746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIButtonEffects
+  hoverScale: 1.08
+  animationSpeed: 12
+  clickClip: {fileID: 8300000, guid: 21ebfacb94c5a4a4d8b58ecf76d11802, type: 3}
+  uiSFXMixerGroup: {fileID: -63870775980071874, guid: 183714804690f4719aa7302a9145fba6, type: 2}
+  clickVolume: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

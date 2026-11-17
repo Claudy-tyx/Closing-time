@@ -53,16 +53,16 @@ public class ReachedHomeUI : MonoBehaviour
             int secs = Mathf.FloorToInt(seconds) % 60;
 
             totalTimeText.text =
-                $"TOTAL TIME\n{hours:00}:{minutes:00}:{secs:00}";
+                $"TOTAL TIME: {hours:00}:{minutes:00}:{secs:00}";
 
             totalRunsText.text =
-                $"RUNS TAKEN\n{manager.TotalRunsStarted}";
+                $"RUNS TAKEN: {manager.TotalRunsStarted}";
 
             totalDistanceText.text =
-                $"DISTANCE WALKED\n{manager.TotalDistanceWalked:F0} m";
+                $"DISTANCE WALKED: {manager.TotalDistanceWalked:F0} m";
 
             totalCoinsText.text =
-                $"COINS COLLECTED\n{manager.TotalCoinsCollected}";
+                $"COINS COLLECTED: {manager.TotalCoinsCollected}";
         }
 
         panelAnimator.Open();

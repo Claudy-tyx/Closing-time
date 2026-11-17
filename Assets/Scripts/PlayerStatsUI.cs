@@ -26,6 +26,15 @@ public class PlayerStatsUI : MonoBehaviour
     [Header("Panel Animation")]
     [SerializeField] private UIPanelAnimator panelAnimator;
 
+    [Header("Tutorial")]
+    [SerializeField] private GameObject consciousnessTutorialArrow;
+
+    public void ShowConsciousnessTutorialArrow(bool show)
+    {
+        if (consciousnessTutorialArrow != null)
+            consciousnessTutorialArrow.SetActive(show);
+    }
+
     private RunData data;
 
     private void Awake()
@@ -69,6 +78,22 @@ public class PlayerStatsUI : MonoBehaviour
 
         RefreshAll();
         ShowTab(true);
+        ShowConsciousnessTutorialArrow(false);
+    }
+
+    private bool consciousnessTutorialActive;
+
+    public void SetConsciousnessTutorialActive(bool active)
+    {
+        consciousnessTutorialActive = active;
+
+        ShowConsciousnessTutorialArrow(active);
+
+        if (closeButton != null)
+            closeButton.interactable = !active;
+
+        if (coinsTabButton != null)
+            coinsTabButton.interactable = !active;
     }
 
     private void OnDestroy()
@@ -117,6 +142,8 @@ public class PlayerStatsUI : MonoBehaviour
 
     public void Close()
     {
+        if (consciousnessTutorialActive)
+            return;
         if (panelAnimator != null)
             panelAnimator.Close();
     }

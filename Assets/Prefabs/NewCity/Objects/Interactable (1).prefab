@@ -223,51 +223,51 @@ MonoBehaviour:
   possibleItems:
   - itemName: Wine Bottle
     itemSprite: {fileID: -1494218211758518558, guid: a79b7f1f27dff420b828f48a88c4e1df, type: 3}
-    coinValue: 15
+    coinValue: 20
   - itemName: Glass Bottle
     itemSprite: {fileID: -6690035777618639251, guid: a9aa3b59a7ed649d8aa676b9c6a066e4, type: 3}
-    coinValue: 15
+    coinValue: 20
   - itemName: Soda Can
     itemSprite: {fileID: 7900121109793914168, guid: da63f616e387e4ce6a58d6e3a58011a6, type: 3}
-    coinValue: 10
+    coinValue: 15
   - itemName: Receipt
     itemSprite: {fileID: -7537706631517130478, guid: f5395d242e720478fbe5b0f65b332139, type: 3}
-    coinValue: 2
+    coinValue: 5
   - itemName: Milk Carton
     itemSprite: {fileID: 1711984620403072554, guid: 0a1ddc4fdba4e4c27a62ecb73741115c, type: 3}
-    coinValue: 8
+    coinValue: 13
   - itemName: Frying Pan
     itemSprite: {fileID: 8923727078504838419, guid: 628036e6dbdf14d4983b9db0c435c789, type: 3}
-    coinValue: 12
+    coinValue: 17
   - itemName: Ring
     itemSprite: {fileID: 4252887539390309802, guid: dc515a83aa4b0454dad3e1be6cbf0fbf, type: 3}
-    coinValue: 25
+    coinValue: 30
   - itemName: Old Book
     itemSprite: {fileID: -7289706090404149446, guid: 72d655a75accd448fa561c04c349dc5e, type: 3}
-    coinValue: 12
+    coinValue: 16
   - itemName: Key
     itemSprite: {fileID: -6810182096377392603, guid: 8886d647266a54f0cbe2e67047391f60, type: 3}
-    coinValue: 8
+    coinValue: 10
   - itemName: Can
     itemSprite: {fileID: 2258450423394631404, guid: 9a812691ea60f419397647a0c3cb6ca9, type: 3}
-    coinValue: 7
+    coinValue: 12
   - itemName: Light Bulb
     itemSprite: {fileID: 8361270425783631645, guid: 0369250aa23e24ea68c184a9504852f8, type: 3}
-    coinValue: 10
+    coinValue: 14
   - itemName: Rubber Duck
     itemSprite: {fileID: 3756548404541059286, guid: d44547fb5fc054e36a662589ea3b0906, type: 3}
-    coinValue: 8
+    coinValue: 12
   - itemName: Glass Jar
     itemSprite: {fileID: 5537568867879348199, guid: 4b9712fb1f2494fa083fbb43e5da334f, type: 3}
-    coinValue: 12
+    coinValue: 14
   - itemName: Milk Bottle
     itemSprite: {fileID: 6506073852246692427, guid: 4a02b4beb2c5846a4841a06c7a1859d2, type: 3}
-    coinValue: 12
+    coinValue: 15
   - itemName: Chess Piece
     itemSprite: {fileID: 3044629173162317569, guid: 2a2078126285240268c214b322838444, type: 3}
-    coinValue: 3
-  nothingChance: 20
-  itemChance: 79
+    coinValue: 5
+  nothingChance: 10
+  itemChance: 90
   trashCanRenderer: {fileID: 4055654975147267637}
   emptyTrashCanSprite: {fileID: 21300000, guid: c4a25393c18354b29aedc9d7ba0c60ba, type: 3}
   searchVisualEffect: {fileID: 0}

@@ -11,7 +11,9 @@ public class PlayerDamageHandler : MonoBehaviour
     public bool IsInvulnerable =>
         Time.time < invulnerableUntil;
 
-    public bool TryTakeDamage(int amount)
+    public bool TryTakeDamage(
+        int amount,
+        DamageCause cause = DamageCause.Unknown)
     {
         if (amount <= 0 || IsInvulnerable)
             return false;
@@ -28,9 +30,10 @@ public class PlayerDamageHandler : MonoBehaviour
         if (data.CurrentHearts <= 0)
             return false;
 
-        // Set cooldown before applying damage.
         invulnerableUntil =
             Time.time + invulnerabilityDuration;
+
+        manager.RecordDamageCause(cause);
 
         data.ChangeHearts(-amount);
 

@@ -19,6 +19,9 @@ public class InteractionManager : MonoBehaviour
         if (!Mouse.current.leftButton.wasPressedThisFrame)
             return;
 
+        if (BartenderDialogueUI.IsDialogueActive)
+            return;
+
         Vector2 mousePosition =
             Mouse.current.position.ReadValue();
 

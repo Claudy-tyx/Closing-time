@@ -11,10 +11,6 @@ public class SceneTransitionManager : MonoBehaviour
     [SerializeField] private CanvasGroup fadeCanvasGroup;
     [SerializeField] private float fadeDuration = 0.4f;
 
-    [Header("Pub Loading Scene")]
-    [SerializeField] private string loadingSceneName = "Loading";
-    [SerializeField] private float minimumLoadingTime = 1f;
-
     private string citySceneName;
     private Vector3 cityReturnPosition;
 
@@ -110,34 +106,24 @@ public class SceneTransitionManager : MonoBehaviour
         // Fade the pub to black.
         yield return Fade(1f);
 
-        // Show the Loading scene.
-        if (!string.IsNullOrWhiteSpace(loadingSceneName))
-        {
-            yield return LoadScene(loadingSceneName);
-
-            // Reveal the Loading scene.
-            yield return Fade(0f);
-
-            // Keep it visible briefly.
-            yield return new WaitForSecondsRealtime(
-                Mathf.Max(0f, minimumLoadingTime)
-            );
-
-            // Fade back to black before loading City.
-            yield return Fade(1f);
-        }
-
+        // Load the city directly.
         yield return LoadScene(destinationCityScene);
 
+        // Position the player at the city starting point.
         PlacePlayerAtCityStart();
 
         startingNewRun = false;
         insideInterior = false;
 
+        // Allow one frame for the new scene to initialize.
         yield return null;
+
+        // Fade back into gameplay.
         yield return Fade(0f);
 
         transitioning = false;
+
+        // Resume consciousness only after the transition finishes.
         RunConsciousnessTimer.Resume(this);
     }
 
