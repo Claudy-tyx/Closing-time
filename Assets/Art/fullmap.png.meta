@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ac86aa7566da4b66bdb242aeb8a4582
+guid: a9b8ca9280b0c4d95aab5819c814e5be
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2371623467902630389
-    second: Untitled (Presentation)_0
+      213: 5425983897552242326
+    second: "Screenshot 2026-11-19 at 9.37.11\u202FPM_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -77,7 +77,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled (Presentation)_0
+      name: "Screenshot 2026-11-19 at 9.37.11\u202FPM_0"
       rect:
         serializedVersion: 2
-        x: 86
+        x: 0
         y: 0
-        width: 1748
-        height: 1080
+        width: 1602
+        height: 988
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b060fa6750d461fd0800000000000000
-      internalID: -2371623467902630389
+      spriteID: 69647925b97fc4b40800000000000000
+      internalID: 5425983897552242326
       vertices: []
       indices: 
       edges: []
@@ -140,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Untitled (Presentation)_0: -2371623467902630389
+      "Screenshot 2026-11-19 at 9.37.11\u202FPM_0": 5425983897552242326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

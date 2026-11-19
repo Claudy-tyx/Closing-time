@@ -1171,6 +1171,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &237744413 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6119716132484178303, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+  m_PrefabInstance: {fileID: 678629357}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bbc89d21d9734b09ba3e84d09f64c53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogueUI
 --- !u!1 &269255433
 GameObject:
   m_ObjectHideFlags: 0
@@ -1990,8 +2001,8 @@ Transform:
   m_GameObject: {fileID: 423378495}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0.0135, z: 0}
-  m_LocalScale: {x: 1.149155, y: 1.1222923, z: 1.1032336}
+  m_LocalPosition: {x: 0, y: 0.024, z: 0}
+  m_LocalScale: {x: 1.2851046, y: 1.2360007, z: 1.1032336}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 545584936}
@@ -4736,6 +4747,79 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1001 &895709821
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 237744413}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: You ever feel like we're all just lines of code?
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[1]'
+      value: Like someone could delete us with one click?
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: Haha. Anyway, nice weather.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.094
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
 --- !u!1 &922278649
 GameObject:
   m_ObjectHideFlags: 0
@@ -9726,3 +9810,4 @@ SceneRoots:
   - {fileID: 1976252638}
   - {fileID: 1944426112}
   - {fileID: 678629357}
+  - {fileID: 895709821}

@@ -106,7 +106,17 @@ public class PlayerSpeechBubble : MonoBehaviour
 
     public void ShowNotification(string message, Sprite itemSprite)
     {
+        ShowNotification(message, itemSprite, displayDuration, true);
+    }
+
+    public void ShowNotification(
+        string message,
+        Sprite itemSprite,
+        float duration,
+        bool playDefaultPop)
+    {
         bool wasVisible = smallBubble.activeSelf;
+
         if (notificationRoutine != null)
         {
             StopCoroutine(notificationRoutine);
@@ -130,14 +140,16 @@ public class PlayerSpeechBubble : MonoBehaviour
 
         smallBubble.SetActive(true);
         smallCanvasGroup.alpha = 1f;
-        if (!wasVisible)
+
+        if (!wasVisible && playDefaultPop)
             PlayBubblePop();
 
         notificationRoutine =
-            StartCoroutine(AnimateNotification());
+            StartCoroutine(AnimateNotification(duration));
     }
 
-    private IEnumerator AnimateNotification()
+
+    private IEnumerator AnimateNotification(float duration)
     {
         float elapsed = 0f;
 
@@ -164,7 +176,7 @@ public class PlayerSpeechBubble : MonoBehaviour
         smallRect.localScale = smallOriginalScale;
 
         yield return new WaitForSecondsRealtime(
-            displayDuration
+            Mathf.Max(0f, duration)
         );
 
         elapsed = 0f;

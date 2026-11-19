@@ -12,28 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 816caf4a52abd49c8857c30191c563fb, type: 3}
   m_Name: S0_RunData
   m_EditorClassIdentifier: Assembly-CSharp::RunData
-  coins: 19
-  coinsCollected: 37
-  distanceWalked: 4373.411
-  distanceAvailable: 453
+  coins: 30
+  coinsCollected: 0
+  distanceWalked: 1219.3068
+  distanceAvailable: 969
   drinksPurchased: 0
   collectedTrash: []
-  balanceLevel: 4
-  speedLevel: 3
+  balanceLevel: 0
+  speedLevel: 1
   recoveryLevel: 0
-  sightLevel: 3
-  luckLevel: 4
-  consciousnessPurchases: 4
+  sightLevel: 0
+  luckLevel: 0
+  consciousnessPurchases: 1
   baseConsciousness: 10
-  currentConsciousness: 0
-  extraHeartsPurchased: 2
-  sprintUnlocked: 0
-  enhancedHealingUnlocked: 1
-  allergenImmunityUnlocked: 1
-  nonSlipShoesUnlocked: 1
+  currentConsciousness: 6.116354
+  extraHeartsPurchased: 0
+  sprintUnlocked: 1
+  enhancedHealingUnlocked: 0
+  allergenImmunityUnlocked: 0
+  nonSlipShoesUnlocked: 0
   minimapUnlocked: 0
   baseHearts: 3
-  currentHearts: 1
+  currentHearts: 0
   currentSprintStamina: 100
   maxSprintStamina: 100
   distanceUpgradeCosts: c8000000f4010000e8030000d0070000i
@@ -44,3 +44,12 @@ MonoBehaviour:
   allergenImmunityCost: 50
   nonSlipShoesCost: 50
   minimapCost: 40
+  totalRunsStarted: 8
+  totalFailedRuns: 10
+  totalCoinsCollected: 70
+  firstUpgradeTutorialCompleted: 1
+  thirdFailureRewardClaimed: 1
+  fifthFailureRewardClaimed: 1
+  pubMapUnlocked: 1
+  lastDamageCause: 1
+  accumulatedPlaythroughTime: 0

@@ -746,6 +746,140 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.8003235, y: 0.31448364}
   m_EdgeRadius: 0
+--- !u!1001 &220706323
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 1015210730}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: Every step you take makes you stronger.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[1]'
+      value: Well, technically, it earns you distance points.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: Spend them on upgrades back at the pub.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 85.53678
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 122.6497
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+--- !u!1001 &380506028
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 1015210730}
+    - target: {fileID: 3609427047875413650, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.57997
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.273705
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
 --- !u!1 &425487759
 GameObject:
   m_ObjectHideFlags: 0
@@ -2204,6 +2338,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+--- !u!114 &1015210730 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6119716132484178303, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+  m_PrefabInstance: {fileID: 1015210729}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bbc89d21d9734b09ba3e84d09f64c53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogueUI
 --- !u!1 &1015551972
 GameObject:
   m_ObjectHideFlags: 0
@@ -4472,3 +4617,5 @@ SceneRoots:
   - {fileID: 904641072}
   - {fileID: 1918782251}
   - {fileID: 1015210729}
+  - {fileID: 380506028}
+  - {fileID: 220706323}
