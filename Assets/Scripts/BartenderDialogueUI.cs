@@ -39,7 +39,7 @@ public class BartenderDialogueUI : MonoBehaviour
             dialogueLines.Length == 0)
             return;
 
-        player = FindFirstObjectByType<PlayerController>();
+        player = FindAnyObjectByType<PlayerController>();
 
         if (player != null)
             player.SetMovementLocked(true);

@@ -21,9 +21,7 @@ public class TrafficLightVisibilityManager : MonoBehaviour
             targetCamera = Camera.main;
 
         trafficLights =
-            FindObjectsByType<TrafficLightController>(
-                FindObjectsSortMode.None
-            );
+            FindObjectsByType<TrafficLightController>();
 
         StartCoroutine(CheckTrafficLights());
     }

@@ -30,11 +30,7 @@ public class PlayerStun : MonoBehaviour
 
     public void ApplyStun()
     {
-        if (RunManager.Instance == null ||
-            !RunManager.Instance.IsRunActive)
-            return;
-
-        if (runData == null)
+        if (runData == null && RunManager.Instance != null)
             runData = RunManager.Instance.Data;
 
         int recoveryLevel = 0;

@@ -18,6 +18,13 @@ public class PlayerSFX : MonoBehaviour
     [SerializeField] private float minimumMovementSpeed = 0.1f;
     [SerializeField] private float footstepVolume = 0.5f;
 
+    [Header("Drunk Footstep Variations")]
+    [SerializeField] private bool irregularCadence = true;
+    [Range(0f, 0.4f)] [SerializeField] private float cadenceVariance = 0.3f;
+    [Range(0f, 0.3f)] [SerializeField] private float stutterStepChance = 0.16f;
+
+    private bool nextStepIsCompensatory;
+
     [Header("Other Volumes")]
     [SerializeField] private float hurtVolume = 1f;
     [SerializeField] private float wallBumpVolume = 0.6f;
@@ -56,12 +63,13 @@ public class PlayerSFX : MonoBehaviour
             return;
 
         bool runActive =
-            RunManager.Instance != null &&
+            RunManager.Instance == null ||
             RunManager.Instance.IsRunActive;
 
         bool blocked =
             (playerSlip != null && playerSlip.IsSlipping) ||
-            (playerStun != null && playerStun.IsStunned);
+            (playerStun != null && playerStun.IsStunned) ||
+            (playerController != null && (playerController.IsFallingSkid || playerController.IsPostSkidImmobile));
 
         bool moving =
             rb.linearVelocity.sqrMagnitude >
@@ -73,24 +81,89 @@ public class PlayerSFX : MonoBehaviour
             return;
         }
 
-        float interval =
-            playerController != null && playerController.IsSprinting
-                ? sprintStepInterval
-                : walkStepInterval;
+        // Section check: Section 1 = irregular cadence, Section 2 = locked regular cadence
+        bool inFirstSection = playerController == null || playerController.IsInFirstSection;
+        bool isIrregular = irregularCadence && inFirstSection;
+
+        float baseInterval = walkStepInterval;
+        if (playerController != null && playerController.IsCounterBraking)
+        {
+            // Rapid footsteps while braking and catching balance
+            baseInterval = walkStepInterval * 0.52f;
+        }
+        else if (playerController != null && playerController.IsSprinting)
+        {
+            baseInterval = sprintStepInterval;
+        }
 
         stepTimer -= Time.deltaTime;
 
         if (stepTimer <= 0f)
         {
-            PlayRandomFootstep();
-            stepTimer = Mathf.Max(0.05f, interval);
+            if (isIrregular)
+            {
+                // SECTION 1: Irregular cadence & stutter double-steps
+                PlayRandomFootstep(pitchVariation: true);
+
+                if (nextStepIsCompensatory)
+                {
+                    // Compensatory slightly longer pause after a quick stutter
+                    stepTimer = Mathf.Max(0.05f, baseInterval * 1.35f);
+                    nextStepIsCompensatory = false;
+                }
+                else if (Random.value < stutterStepChance)
+                {
+                    // Drunk quick double-step!
+                    stepTimer = Mathf.Max(0.05f, baseInterval * 0.45f);
+                    nextStepIsCompensatory = true;
+                }
+                else
+                {
+                    // Organic timing variance
+                    float variance = Random.Range(1f - cadenceVariance, 1f + cadenceVariance);
+                    stepTimer = Mathf.Max(0.05f, baseInterval * variance);
+                }
+            }
+            else
+            {
+                // SECTION 2: Locked-in, rhythmic, rapid footsteps scaling with runaway acceleration
+                PlayRandomFootstep(pitchVariation: false);
+
+                float lean = playerController != null ? playerController.LeanProgress : 0.6f;
+                float runawayInterval = Mathf.Lerp(walkStepInterval, sprintStepInterval * 0.85f, lean);
+                stepTimer = Mathf.Max(0.05f, runawayInterval);
+            }
         }
     }
 
-    private void PlayRandomFootstep()
+    public void PlayFootstepScuff()
     {
+        if (footstepClips != null && footstepClips.Length > 0)
+        {
+            AudioClip clip = footstepClips[Random.Range(0, footstepClips.Length)];
+            PlayClip(clip, footstepVolume * 1.2f);
+        }
+    }
+
+    private void PlayRandomFootstep(bool pitchVariation = true)
+    {
+        if (footstepClips == null || footstepClips.Length == 0)
+            return;
+
         AudioClip clip =
             footstepClips[Random.Range(0, footstepClips.Length)];
+
+        // Section 1 has pitch wobble; Section 2 maintains steady pitch
+        if (audioSource != null)
+        {
+            if (pitchVariation)
+                audioSource.pitch = Random.Range(0.92f, 1.08f);
+            else
+            {
+                float lean = playerController != null ? playerController.LeanProgress : 0.5f;
+                audioSource.pitch = 1.0f + (lean - 0.5f) * 0.15f;
+            }
+        }
 
         PlayClip(clip, footstepVolume);
     }

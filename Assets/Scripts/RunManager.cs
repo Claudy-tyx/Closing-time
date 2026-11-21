@@ -50,6 +50,11 @@ public class RunManager : MonoBehaviour
             ? runData.LastDamageCause
             : DamageCause.Unknown;
 
+    public void SetRunData(RunData data)
+    {
+        runData = data;
+    }
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -62,7 +67,13 @@ public class RunManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
 
         if (runData == null)
-            Debug.LogError("RunManager: RunData is not assigned!");
+        {
+            runData = Resources.Load<RunData>("RunData");
+            if (runData == null)
+            {
+                Debug.LogWarning("RunManager: RunData is not assigned. Ensure it is assigned or SetRunData() is called before starting a run.");
+            }
+        }
     }
 
     private void LateUpdate()

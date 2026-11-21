@@ -54,9 +54,7 @@ public class MinimapColliderRenderer : MonoBehaviour
     private void BuildMarkers()
     {
         BoxCollider2D[] colliders =
-            FindObjectsByType<BoxCollider2D>(
-                FindObjectsSortMode.None
-            );
+            FindObjectsByType<BoxCollider2D>();
 
         foreach (BoxCollider2D box in colliders)
         {
@@ -98,7 +96,7 @@ public class MinimapColliderRenderer : MonoBehaviour
 
         // Sorting Layer (must exist in Unity)
         sr.sortingLayerName = "MinimapLayer";
-        sr.sortingOrder = 1000;
+        sr.sortingOrder = sortingOrder;
 
         markers.Add(box, marker.transform);
 
