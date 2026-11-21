@@ -157,7 +157,7 @@ public class BartenderNPC : InteractableObject
         data.GrantDistanceCurrency(needed);
 
         PlayerController player =
-            FindFirstObjectByType<PlayerController>();
+            FindAnyObjectByType<PlayerController>();
 
         if (player != null)
             player.SetMovementLocked(true);
@@ -192,7 +192,7 @@ public class BartenderNPC : InteractableObject
             playerStatsUI.SetConsciousnessTutorialActive(false);
 
         PlayerController player =
-            FindFirstObjectByType<PlayerController>();
+            FindAnyObjectByType<PlayerController>();
 
         if (player != null)
             player.SetMovementLocked(false);

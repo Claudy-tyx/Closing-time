@@ -48,7 +48,7 @@ public class TrashCanInteractable : InteractableObject
             trashCanRenderer = GetComponent<SpriteRenderer>();
 
         speechBubble =
-            FindFirstObjectByType<PlayerSpeechBubble>();
+            FindAnyObjectByType<PlayerSpeechBubble>();
     }
 
     protected override void Interact()
@@ -137,7 +137,7 @@ public class TrashCanInteractable : InteractableObject
 
         if (speechBubble == null)
             speechBubble =
-                FindFirstObjectByType<PlayerSpeechBubble>();
+                FindAnyObjectByType<PlayerSpeechBubble>();
 
         if (speechBubble != null)
             speechBubble.ShowNotification(message, item.itemSprite);
@@ -163,7 +163,7 @@ public class TrashCanInteractable : InteractableObject
         if (speechBubble == null)
         {
             speechBubble =
-                FindFirstObjectByType<PlayerSpeechBubble>();
+                FindAnyObjectByType<PlayerSpeechBubble>();
         }
 
         if (speechBubble != null)

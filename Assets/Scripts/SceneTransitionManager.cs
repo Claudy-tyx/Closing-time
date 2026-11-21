@@ -142,7 +142,7 @@ public class SceneTransitionManager : MonoBehaviour
             if (entering)
             {
                 InteriorSpawnPoint spawn =
-                    FindFirstObjectByType<InteriorSpawnPoint>();
+                    FindAnyObjectByType<InteriorSpawnPoint>();
 
                 if (spawn != null)
                     PlacePlayer(player, spawn.transform.position);
@@ -154,7 +154,7 @@ public class SceneTransitionManager : MonoBehaviour
                 if (startingNewRun)
                 {
                     CityStartPoint spawn =
-                        FindFirstObjectByType<CityStartPoint>();
+                        FindAnyObjectByType<CityStartPoint>();
 
                     if (spawn != null)
                         PlacePlayer(player, spawn.transform.position);
@@ -210,7 +210,7 @@ public class SceneTransitionManager : MonoBehaviour
         }
 
         CityStartPoint spawn =
-            FindFirstObjectByType<CityStartPoint>();
+            FindAnyObjectByType<CityStartPoint>();
 
         if (spawn != null)
             PlacePlayer(player, spawn.transform.position);

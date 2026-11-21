@@ -69,38 +69,37 @@ public class PlayerHealth : MonoBehaviour
             return;
 
         RunManager manager = RunManager.Instance;
-
-        if (manager == null || !manager.IsRunActive)
-            return;
-
-        if (runData == null)
+        if (runData == null && manager != null)
             runData = manager.Data;
 
-        if (runData == null || runData.CurrentHearts <= 0)
+        if (runData != null && runData.CurrentHearts <= 0)
             return;
 
         invulnerabilityTimer = invulnerabilityTime;
         flashTimer = 0f;
 
-        // Remember the cause of the latest successful damage.
-        manager.RecordDamageCause(cause);
+        if (manager != null)
+            manager.RecordDamageCause(cause);
 
-        // Apply damage exactly once.
-        runData.ChangeHearts(-damage);
+        if (runData != null)
+            runData.ChangeHearts(-damage);
 
         if (playerSFX != null)
             playerSFX.PlayHurt();
 
-        if (runData.CurrentHearts > 0 && playerStun != null)
+        if ((runData == null || runData.CurrentHearts > 0) && playerStun != null)
             playerStun.ApplyStun();
 
-        Debug.Log(
-            $"Player took {damage} damage from {cause}. " +
-            $"HP: {runData.CurrentHearts}/{runData.MaxHearts}"
-        );
+        if (runData != null)
+        {
+            Debug.Log(
+                $"Player took {damage} damage from {cause}. " +
+                $"HP: {runData.CurrentHearts}/{runData.MaxHearts}"
+            );
 
-        if (runData.CurrentHearts <= 0)
-            Die();
+            if (runData.CurrentHearts <= 0)
+                Die();
+        }
     }
 
     public void Heal(int amount)

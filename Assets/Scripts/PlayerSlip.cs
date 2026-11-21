@@ -39,23 +39,10 @@ public class PlayerSlip : MonoBehaviour
             return;
         }
 
-        if (RunManager.Instance == null ||
-            !RunManager.Instance.IsRunActive)
-        {
-            Debug.Log("[SLIP] Run is not active.");
-            return;
-        }
-
-        if (runData == null)
+        if (runData == null && RunManager.Instance != null)
             runData = RunManager.Instance.Data;
 
-        if (runData == null)
-        {
-            Debug.LogWarning("[SLIP] RunData is missing!");
-            return;
-        }
-
-        if (runData.NonSlipShoesUnlocked)
+        if (runData != null && runData.NonSlipShoesUnlocked)
         {
             Debug.Log("[SLIP] Non-Slip Shoes prevent slipping.");
             return;

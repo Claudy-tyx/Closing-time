@@ -165,7 +165,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2925880879665477758
 RectTransform:
   m_ObjectHideFlags: 0
@@ -386,12 +386,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ca24779f8e2947379573f92fc9f785f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 1
-  speedBonusPerLevel: 0.3
-  maxSwayStrength: 0.65
-  swayFrequency: 2
-  swayReductionPerLevel: 0.25
-  sprintMultiplier: 1.5
+  masterSpeedScale: 0.84
+  moveSpeed: 0.37
+  speedBonusPerLevel: 0.25
+  section1Acceleration: 0.59
+  section2Acceleration: 3.2
+  lowSpeedTurnRate: 260
+  highSpeedTurnRate: 85
+  coastingDeceleration: 0.43
+  brakingDeceleration: 1.28
+  speedExponent: 1.56
+  maxSpeedMultiplier: 1.71
+  timeToMaxSpeed: 3.83
+  maxTopSpeedDuration: 0.11
+  momentumDecayRate: 2.64
+  transitionLeanThreshold: 0.882
+  section1SwayStrength: 0.77
+  section2SwayStrength: 0.77
+  minSwayPulseDuration: 0.54
+  maxSwayPulseDuration: 0.96
+  maxConsecutiveSwaysSameDirection: 3
+  enableStepPulse: 1
+  stepDuration: 0.42
+  stepSurgeStrength: 0.28
+  stepDipStrength: 0.22
+  fallDamage: 1
+  fallSkidDuration: 1.1
+  fallSkidMultiplier: 1.1
+  postSkidImmobileDuration: 1
+  spriteTransform: {fileID: 3630902043202673505}
+  sprintMultiplier: 1.25
   staminaDrainPerSecond: 25
   staminaRegenPerSecond: 15
   staminaRegenDelay: 1
@@ -486,6 +510,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimationController
   animator: {fileID: 8821863360158041597}
   movementThreshold: 0.1
+  section1AnimSpeed: 1
+  section2StartAnimSpeed: 1.35
+  section2MaxAnimSpeed: 2.2
+  sprintAnimMultiplier: 1.25
 --- !u!82 &132401493827602915
 AudioSource:
   m_ObjectHideFlags: 0
@@ -607,6 +635,9 @@ MonoBehaviour:
   sprintStepInterval: 0.25
   minimumMovementSpeed: 0.1
   footstepVolume: 0.5
+  irregularCadence: 1
+  cadenceVariance: 0.3
+  stutterStepChance: 0.16
   hurtVolume: 1
   wallBumpVolume: 0.6
   slipVolume: 0.8
@@ -1128,7 +1159,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3248316991245124071
 RectTransform:
   m_ObjectHideFlags: 0

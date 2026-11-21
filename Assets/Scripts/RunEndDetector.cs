@@ -13,7 +13,7 @@ public class RunEndDetector : MonoBehaviour
 
         if (gameOverUI == null)
             gameOverUI =
-                FindFirstObjectByType<RunGameOverUI>();
+                FindAnyObjectByType<RunGameOverUI>();
     }
 
     private void Update()
