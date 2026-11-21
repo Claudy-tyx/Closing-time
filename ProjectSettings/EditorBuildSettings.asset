@@ -60,7 +60,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Hotel Lobby.unity
     guid: 195329514c704496b9a33302f5db6aaa
   - enabled: 1
-    path: Assets/Scenes/MovementTestScene.unity
-    guid: 8e45a27c10b147efa095817cba550199
+    path: Assets/Scenes/PostOffice.unity
+    guid: ff9ecab2a3fe943579113a7feff14110
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

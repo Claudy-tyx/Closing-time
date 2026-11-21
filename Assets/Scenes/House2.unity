@@ -522,6 +522,79 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1001 &333940669
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 1837510262}
+    - target: {fileID: -8987600606534105613, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: Feeling sleepy? Grab a drink from a vending machine.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: 'dialogueLines.Array.data[1]'
+      value: It might help you stay conscious a little longer."
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: No, another beer doesn't count.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 85.417305
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.45048
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28f7faf14664343e6a5a1222a90977d0, type: 3}
 --- !u!1 &362415618
 GameObject:
   m_ObjectHideFlags: 0
@@ -705,6 +778,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1001 &456871325
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 1837510262}
+    - target: {fileID: 3609427047875413650, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.72122
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.58874
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0730b5180728041aba0f274f160859c1, type: 3}
 --- !u!1 &528840457
 GameObject:
   m_ObjectHideFlags: 0
@@ -2872,6 +3006,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+--- !u!114 &1837510262 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6119716132484178303, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+  m_PrefabInstance: {fileID: 1837510261}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bbc89d21d9734b09ba3e84d09f64c53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogueUI
 --- !u!1 &1843847428
 GameObject:
   m_ObjectHideFlags: 0
@@ -3412,3 +3557,5 @@ SceneRoots:
   - {fileID: 908935260}
   - {fileID: 1539625224}
   - {fileID: 1837510261}
+  - {fileID: 456871325}
+  - {fileID: 333940669}

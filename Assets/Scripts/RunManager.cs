@@ -1,6 +1,7 @@
 
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System;
 
 public class RunManager : MonoBehaviour
 {
@@ -15,6 +16,7 @@ public class RunManager : MonoBehaviour
     public int LastRunTrashCoins { get; private set; }
     public int LastRunTrashBonus { get; private set; }
     public int LastRunTrashTotal { get; private set; }
+    public static event Action OnNewRunStarted;
 
     // Compatibility properties for existing scripts.
 
@@ -110,6 +112,7 @@ public class RunManager : MonoBehaviour
         LastRunTrashTotal = 0;
 
         IsRunActive = true;
+        OnNewRunStarted?.Invoke();
 
         Debug.Log("New run started!");
     }

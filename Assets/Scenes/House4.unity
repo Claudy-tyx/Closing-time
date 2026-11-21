@@ -1177,6 +1177,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+--- !u!114 &753712631 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6119716132484178303, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+  m_PrefabInstance: {fileID: 753712630}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bbc89d21d9734b09ba3e84d09f64c53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogueUI
 --- !u!1 &790735013
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,6 +1848,87 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.3813171, y: 0.40454865}
   m_EdgeRadius: 0
+--- !u!1001 &1194085643
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 753712631}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: Feeling like you're about to pass out?
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[1]'
+      value: Some food and drinks can help restore your consciousness.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: Keep some coins for emergencies.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[3]'
+      value: Or spend everything on snacks. I'm not your accountant.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.53618
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.558136
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
 --- !u!1 &1218292610
 GameObject:
   m_ObjectHideFlags: 0
@@ -3200,6 +3292,83 @@ Transform:
   - {fileID: 1643226187}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1802081764
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 753712631}
+    - target: {fileID: -8987600606534105613, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: Hey, can you walk into that wall for me?
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: 'dialogueLines.Array.data[1]'
+      value: I'm testing collision detection.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: If you get stuck, it's a feature.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: 'dialogueLines.Array.data[3]'
+      value: If you fall through the map, it's an advanced feature.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.9895
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.09876
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 0730b5180728041aba0f274f160859c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0730b5180728041aba0f274f160859c1, type: 3}
 --- !u!1 &1830098070
 GameObject:
   m_ObjectHideFlags: 0
@@ -3677,3 +3846,5 @@ SceneRoots:
   - {fileID: 917252340}
   - {fileID: 1830098072}
   - {fileID: 753712630}
+  - {fileID: 1194085643}
+  - {fileID: 1802081764}

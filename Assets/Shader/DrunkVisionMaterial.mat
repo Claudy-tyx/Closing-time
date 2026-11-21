@@ -41,8 +41,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlurStrength: 0.5072143
-    - _ClearRadius: 1.4657629
+    - _BlurStrength: 0.00043161947
+    - _ClearRadius: 1.4999708
     - _EnableExternalAlpha: 0
     - _Feather: 0.25
     - _ZWrite: 0

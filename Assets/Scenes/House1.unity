@@ -613,6 +613,148 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1001 &331400573
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 838268128}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: Wait I know you!
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: It's right beside the park!
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 84.82611
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.34082
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6d4b4cf5e1da14a8388da8994af34f83, type: 3}
+--- !u!1001 &335699121
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: dialogueUI
+      value: 
+      objectReference: {fileID: 838268128}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[0]'
+      value: Press WASD to move.
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[1]'
+      value: Wait, you already know that?
+      objectReference: {fileID: 0}
+    - target: {fileID: -8987600606534105613, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: 'dialogueLines.Array.data[2]'
+      value: Great. That's all the training I received.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609427047875413650, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_Name
+      value: Npc_Chat
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 85.50789
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 123.14534
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861289763081509186, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ec869e97e7d7b4762b8d720fa88e3394, type: 3}
 --- !u!1 &466799538
 GameObject:
   m_ObjectHideFlags: 0
@@ -1517,6 +1659,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+--- !u!114 &838268128 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6119716132484178303, guid: faf8bc2830e2242ab8b14c326f273746, type: 3}
+  m_PrefabInstance: {fileID: 838268127}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bbc89d21d9734b09ba3e84d09f64c53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogueUI
 --- !u!1 &889281545
 GameObject:
   m_ObjectHideFlags: 0
@@ -3546,3 +3699,5 @@ SceneRoots:
   - {fileID: 1980507470}
   - {fileID: 1145486912}
   - {fileID: 838268127}
+  - {fileID: 331400573}
+  - {fileID: 335699121}
